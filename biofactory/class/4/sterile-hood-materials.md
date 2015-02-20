@@ -1,30 +1,30 @@
 ---
 layout: page
-title: Sterile Hood Materials
+title: Materiais Capela Estéril
 permalink: /biofactory/class/4-sterile-hood/sterile-hood-materials/
 ---
 
 The material list is based on the [Requirements list](/biofactory/class/4-sterile-hood/requirements/)
 
-## Bill of Materials
+## Lista de maters
 
-This time we will not use a microprocessor.
+Desta vez não iremos usar um microprocessador.
 
-### Must have
+### Deve-se ter
 
 |#|Amount|Description|Supplier NL|Cost|
 |-:|----:|:---------|:-------|---:|
-|1|1|HEPA Filter|[OfficeStuff](http://www.officestuff.nl/producten/9370101-hepa_filter_large/)|35.82|
-|2|1|250 m<sup>3</sup>/h air pump|[Webstunter](http://www.webstunter.com/ventilatie-afzuiging/centrifugaal-ventilator-afzuigmotor/direct-aangedreven-acv-centrifugaal-ventilator-afzuigmotor-250-m-h.html)|58.00|
+|1|1|Filtro HEPA|[OfficeStuff](http://www.officestuff.nl/producten/9370101-hepa_filter_large/)|35.82|
+|2|1|250 m<sup>3</sup>/h bomba de ar|[Webstunter](http://www.webstunter.com/ventilatie-afzuiging/centrifugaal-ventilator-afzuigmotor/direct-aangedreven-acv-centrifugaal-ventilator-afzuigmotor-250-m-h.html)|58.00|
 |3|1|Inline cord switch|[Gamma](https://www.gamma.nl/assortiment/gamma-snoerschakelaar-wit/p/B456235)|2.19|
 |4|1|Power cord|[Gamma](https://www.gamma.nl/assortiment/gamma-huishoudsnoer-rond-3x1-5-mm-wit-5-m/p/B457211)|14.29|
 |5|1|Wall socket power plug|[Gamma](https://www.gamma.nl/assortiment/stekker-wit/p/B306915)|1.09|
 |--|--|---|---|---|
 |||*Total costs*|||
 
-* You will also need 3mm MDF and some M3 10 mm bolts and nuts
+* Você também precisará de MDF 3mm e alguns parafusos e porcas M3 10 mm
 
-### Nice to have
+### É bom ter
 
 |#|Amount|Description|Supplier NL|Cost|
 |-:|----:|:---------|:-------|---:|
@@ -32,8 +32,8 @@ This time we will not use a microprocessor.
 |--|--|---|---|---|
 |||*Total costs*|||
 
-**Alternatives**
+**Alternativas**
 
-* You may choose to build a smaller hood, and go for a vacuum cleaner or car HEPA filter
+* Você pode escolher construir uma capela menor, e ir para um aspirador de pó ou filtro HEPA de carro
 
-Back to [Biofactory - Class 4: Sterile Hood](/biofactory/class/4-sterile-hood/)
+De volta à [Biofactory - Class 4: Sterile Hood](/biofactory/class/4-sterile-hood/)
