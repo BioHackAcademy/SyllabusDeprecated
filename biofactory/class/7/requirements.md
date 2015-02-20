@@ -1,33 +1,33 @@
 ---
 layout: page
-title: Spectrometer requirements
+title: Requisitos spectrômetro
 permalink: /biofactory/class/7-spectrometer/requirements/
 ---
 
-## Functional requirements
+## Requisitos funcionais
 
-**Must have**
+**Deve-se ter**
 
-1. White light source
-2. Detection range in visible light
-3. Standard size cuvet holder
-4. Spectrum read out
+1. Fonte de luz branca
+2. Faixa de detecção de luz visível
+3. Suporte de cuvete de tamanho padrão
+4. Leitura do espectro
 
-**Nice to have**
+**É bom ter**
 
-1. Dedicated OD600 measurement for growth monitoring
+1. Medição OD600 dedicado para o acompanhamento do crescimento
 
-## Technical requirements
+## Requisitos técnicos
 
-**Must have**
+**Deve-se ter**
 
-1. White (full spectrum) 5V LED + suitable resistor
-2. 1,000 lines/mm grating and 400 - 800 nm wavelength detection
-3. 10 x 10 x 45 mm cuvet holder
-4. Serial connection between device and computer
+1. Branco (espectro completo) 5V LED + resistor adequado
+2. Grade 1,000 linhas/mm e detecção comprimento de onda 400 - 800 nm
+3. Suporte de cuvete 10 x 10 x 45 mm
+4. Conexão serial entre equipamento e computador
 
-**Nice to have**
+**É bom ter**
 
 1. I2C LCD 16x2 display
 
-Back to [Biofactory - Class 7: Spectrometer](/biofactory/class/7-spectrometer/)
+De volta à [Biofábrica - Aula 7: Espectrômetro](/biofactory/class/7-spectrometer/)
