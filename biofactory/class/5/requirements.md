@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Centrifuge requirements
+title: Requisitos centrífuga
 permalink: /biofactory/class/5-centrifuge/requirements/
 ---
 
