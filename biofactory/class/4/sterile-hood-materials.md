@@ -6,7 +6,7 @@ permalink: /biofactory/class/4-sterile-hood/sterile-hood-materials/
 
 The material list is based on the [Requirements list](/biofactory/class/4-sterile-hood/requirements/)
 
-## Lista de maters
+## Lista de materiais
 
 Desta vez não iremos usar um microprocessador.
 
@@ -34,6 +34,6 @@ Desta vez não iremos usar um microprocessador.
 
 **Alternativas**
 
-* Você pode escolher construir uma capela menor, e ir para um aspirador de pó ou filtro HEPA de carro
+* Você pode escolher construir uma capela menor e utilizar um aspirador de pó ou filtro HEPA de carro.
 
 De volta à [Biofactory - Class 4: Sterile Hood](/biofactory/class/4-sterile-hood/)
