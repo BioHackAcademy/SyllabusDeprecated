@@ -8,7 +8,7 @@ permalink: /biofactory/class/4-sterile-hood/requirements/
 
 **Deve-se ter**
 
-1. Área de trabalho estéril, sobre o tamanho de 10 placas de Petri
+1. Área de trabalho estéril, para caber cerca de 10 placas de Petri
 2. Fluxo horizontal
 
 **É bom ter**
@@ -21,7 +21,7 @@ permalink: /biofactory/class/4-sterile-hood/requirements/
 
 1. Filtro HEPA classe H14 
 2. 0.5 m2/h fluxo de ar para fluxo laminar
-3. On/off interruptor
+3. Interruptor liga/desliga
 
 **É bom ter**
 
