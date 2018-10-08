@@ -8,7 +8,8 @@ permalink: /bha5/class/10/
 
 The final presentations of 10 weeks biohacking, broadcasted live on April 3rd, 2018. 
 * Final presentations: [Full Video](https://vimeo.com/265259253)
-  * [05:04](https://vimeo.com/265259253#t=5m4s) - Anna Pelgrim (Amsterdam) - Architecture of Cure - The aim of this project is using natural elements through the senses (smell, sound, and sight) to research the effect of nature on stress reduction and also recovery. Using a distiller/rotary evaporator to make essential oils from forest material which have been proven to reduce stress, the aim is to create stress-reducing scents for people to take with them.
+  * [05:04](https://vimeo.com/265259253#t=5m4s) - Anna Pelgrim (Amsterdam) - Architecture of Cure
+   *  The aim of this project is using natural elements through the senses (smell, sound, and sight) to research the effect of nature on stress reduction and also recovery. Using a distiller/rotary evaporator to make essential oils from forest material which have been proven to reduce stress, the aim is to create stress-reducing scents for people to take with them.
   * [13:21](https://vimeo.com/265259253#t=13m21s) - Malu Lücking (Amsterdam) - invisible identity - A set of experiments about our relation to the sense of smell.
   * [21:43](https://vimeo.com/265259253#t=21m43s) - Youngah Seoung (Tokyo) - Are you in love at the cellular level? - I want to check the compatibility of romantic partners using microorganisms coexisting on our body.
   * [30:56](https://vimeo.com/265259253#t=30m56s) - Jan Köhler (Amsterdam) - What are you planting to wear? - Wearable plants to satisfy biophilic needs.
