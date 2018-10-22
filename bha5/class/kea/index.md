@@ -19,9 +19,11 @@ This is the syllabus for the BioHack module by Waag tailored for KEA.
 ### Instructions and organisms 
 
 * [Making agar plates: video](https://www.youtube.com/watch?v=_e0vwaUgy_w)
+
 * [Slime mold](http://biohackacademy.github.io/bha5/organisms/slime-mold/)
+
 * [Janthinobacterium lividum](http://biohackacademy.github.io/bha5/organisms/janthinobacterium-lividum/)
 * [Nutrient agar](http://biohackacademy.github.io/bha4/cultivation-media/nutrient-agar/)
+
 * [Kombucha](http://biohackacademy.github.io/bha5/organisms/kombucha/)
-* [Kombucha medium](http://biohackacademy.github.io/bha5/cultivation-media/kombucha-medium/)
 * [Kombucha medium](http://biohackacademy.github.io/bha5/cultivation-media/kombucha-medium/)
