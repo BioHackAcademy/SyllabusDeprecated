@@ -10,6 +10,10 @@ This is the syllabus for the BioHack module by Waag tailored for KEA.
 
 ## Resources - Session 22 October 2018
 
+### Lectures
+
+Session 1 - 22 October: introduction, microbiology & biosafety [PDF](/bha5/class/kea/pdf/session1.pdf)
+
 ### Projects and videos
 
 * [Emma van der Leest lecture on Biomaterials](https://vimeo.com/259847179)
