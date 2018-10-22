@@ -6,6 +6,8 @@ permalink: /bha5/class/10/
 
 ## Synopsys
 
+<p> This is an updated list </p>
+
 The final presentations of 10 weeks biohacking, broadcasted live on April 3rd, 2018. 
 
 * [Full Video](https://vimeo.com/265259253)
