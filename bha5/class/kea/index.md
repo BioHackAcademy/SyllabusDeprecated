@@ -22,12 +22,22 @@ Session 1 - 22 October: introduction, microbiology & biosafety [PDF](/bha5/class
 
 ### Instructions and organisms 
 
+#### How to work in the lab
 * [Making agar plates: video](https://www.youtube.com/watch?v=_e0vwaUgy_w)
+* [Microbe Cultivation Manual](http://biohackacademy.github.io/bha4/class/2/Microbe%20Cultivation%20Manual.pdf)
 
-* [Slime mold](http://biohackacademy.github.io/bha5/organisms/slime-mold/)
-
+#### Janthinobacterium lividum
 * [Janthinobacterium lividum](http://biohackacademy.github.io/bha5/organisms/janthinobacterium-lividum/)
+You can grow J.L. on Nutrient Agar or Plate Count Agar:
 * [Nutrient agar](http://biohackacademy.github.io/bha4/cultivation-media/nutrient-agar/)
+* [Plate Count agar](http://biohackacademy.github.io/bha4/cultivation-media/plate-count-agar/)
 
+#### Slime mold (physarum polycephalum
+* [Slime mold](http://biohackacademy.github.io/bha5/organisms/slime-mold/)
+Grows best on Plain Agar (2 - 6 %, meaning 2 - 6 g in 100 ml of sterilized water) with (sterilized) oat flakes.
+With slime mold it's less important to work sterile, but transfer a bit of slime mold on new media every week. 
+
+#### Kombucha
 * [Kombucha](http://biohackacademy.github.io/bha5/organisms/kombucha/)
+You can grow kombucha on different media, differing amounts of tea, sugar, vinegar and glycerol. 
 * [Kombucha medium](http://biohackacademy.github.io/bha5/cultivation-media/kombucha-medium/)
