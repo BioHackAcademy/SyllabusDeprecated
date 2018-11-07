@@ -8,7 +8,26 @@ permalink: /bha5/class/kea/
 
 This is the syllabus for the BioHack module by Waag tailored for KEA.
 
-## Resources - Session 22 October 2018
+## Session 7 November 2018
+
+### Magdelena & Anastasia's process logs:
+
+* bacteria - [PDF](/bha5/class/kea/pdf/181106_process_bacteria.pdf)
+* slime mold - [PDF](/bha5/class/kea/pdf/181106_process_slimemold.pdf)
+* Material Design Lab [instagram](https://www.instagram.com/materialdesignlab/)
+
+### Dyeing with bacteria
+
+* We discussed dyeing with solid agar and an acrylic mold, looking at for example IndiCo's method - [Instagram](https://www.instagram.com/indico_dye/)
+* For dyeing with textiles in liquid medium, you can look at the Japanese Shibori technique of folding textiles.
+* I would start small for tests, but online you can find a couple of [tutorials](https://closetcasepatterns.com/indigo-shibori-dyeing-techniques-tutorial/)
+
+### Working sterily in the lab
+
+* We discussed working sterily in the lab. Getting rid of contaminated plates, autoclaving before discarding them.
+* Also see the sources of last time underneath. 
+
+## Session 22 October 2018
 
 ### Lectures
 
