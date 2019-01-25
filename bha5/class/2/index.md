@@ -14,7 +14,7 @@ This week we will start growing microbes under controlled conditions. During the
 * Principles of Electronics [PDF](/bha5/class/2/pdf/2.2 Electronics.pdf) - [Video](https://vimeo.com/254403525)
 * Documentation & Open source licensing [PDF](/bha5/class/2/pdf/2.3 Documentation.pdf) - [Video](https://vimeo.com/254406340)
   * [Setting up a Github page](https://github.com/BioHackAcademy/BHA_DocumentationSite)
-* Magnetic Stirrer design [PDF](/bha4/class/2/pdf/2.4 Magnetic Stirrer design.pdf) - [Video](https://vimeo.com/254408381)
+* Magnetic Stirrer design [PDF](/bha5/class/2/pdf/2.4 Magnetic Stirrer design.pdf) - [Video](https://vimeo.com/254408381)
 * Practicals
   * [Contamination test](/bha5/class/2/contamination-test/)
   * [Cultivating microbes](/bha4/class/2/Microbe Cultivation Manual.pdf) of the [Culture Collection](/bha5/organisms/)

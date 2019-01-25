@@ -15,4 +15,9 @@ Suitable for growing lactic acid bacteria
 |Agar|20.0|g|
 |Demi water| up to 1000|mL|
 
-[Back to Organisms](/bha4/organisms/)
+### Biohacker Alternative
+
+* Tomato-Milk agar can be used as an alternative to isolate lactobacillus. Synthetic Biology One made a lesson on it: 
+* [https://syntheticbiology1.com/courses/making-yogurt-the-scientific-way/lessons/how-to-make-tomato-milk-plates/](https://syntheticbiology1.com/courses/making-yogurt-the-scientific-way/lessons/how-to-make-tomato-milk-plates/)
+
+[Back to Organisms](/bha5/organisms/)
