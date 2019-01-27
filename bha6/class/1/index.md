@@ -81,4 +81,4 @@ Go ahead and buy a sterile hood:
 * Buy one on [eBay](http://www.ebay.com/bhp/laminar-flow-hood)
 
 
-Back to [BHA5 Classes](/bha6/classes/)
+Back to [BHA6 Classes](/bha6/classes/)
