@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Culture Collection
-permalink: /bha5/annex/culture-collection/
+permalink: /bha6/annex/culture-collection/
 ---
 
 ## Culture Collection
@@ -10,7 +10,7 @@ The following cultures are available in the Waag Society's Open Wetlab. In case 
 
 {% for page in site.pages %}
 {% if page.categories contains 'culture-collection' %}
-{% if page.url contains 'bha5' %}
+{% if page.url contains 'bha6' %}
 * [{{ page.title }}]({{ page.url | prepend: site.baseurl }})
 {% endif %}
 {% endif %}
@@ -28,4 +28,3 @@ The following cultures are available in the Waag Society's Open Wetlab. In case 
 
 * Yeast can be found in the baking section of any supermarket
 * Lactobacilli are sold as pills at any drug store
-
