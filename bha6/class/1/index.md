@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 1 - Introduction
-permalink: /bha5/class/1/
+permalink: /bha6/class/1/
 ---
 
 ## Synopsys
@@ -10,13 +10,14 @@ You are at the start of your journey into the marvelous world of Biohacking. To 
 
 ## Schedule
 
-* Introduction [PDF](/bha5/class/1/pdf/1.1 - Introduction.pdf) - [Video](https://vimeo.com/253431563)
-* History of BioHacking by Pieter van Boheemen [PDF](/bha4/class/1/pdf/1.2 - History of Biohacking.pdf) - [Video](https://vimeo.com/253432378)
-* Biosafety by Per Staugaard [PDF](/bha5/class/1/pdf/1.3 - Biosafety.pdf) - [Video](https://vimeo.com/253431834)
-* Software [PDF](/bha5/class/1/pdf/1.4 - Software.pdf)
-* Sterile Hood Design [PDF](/bha5/class/1/pdf/1.5 - Sterile hood design.pdf) - [Video](https://vimeo.com/253432202)
+* Introduction
+* History of BioHacking
+* Biosafety by Per Staugaard
+* Software
+* Sterile Hood Design
+
 * Practicals
-  * Tour around your lab
+  * Tour around your fablab and wetlab facilities
   * Digital Fabrication / 3D CAD Design
     * [Sketchup Box Demo video](https://vimeo.com/156572816)
     * [Sketchup Box Demo file](/bha4/class/1/files/DemoBox.skp)
@@ -38,7 +39,7 @@ In each device repository you will find a Bill of Materials. This document lists
 
 > PLEASE NOTE: as this is the first Bill of Materials of the Academy take note of the following:
 
-1. The components on this list are the bare minimum you need to build a sterile hood and compatible with the design. Please feel free to deviate from this list and change the design accordingly. You are expected to keep track of your hacks on your own documentation site.
+1. The components on this list are the bare minimum you need to build this sterile hood and compatible with the design. Please feel free to deviate from this list and change the design accordingly. You are expected to keep track of your hacks on your own documentation site.
 2. The suppliers that are listed all ship to addresses in The Netherlands, and some also ship abroad. Alternative sources are listed on the [Suppliers](/suppliers/) page. Whenever you find a suitable alternative, please post it in the comments at the bottom of the page.
 3. Check the stock level and shipping times of each component before ordering. If it takes more than two weeks, look for an alternative.
 4. Some suppliers, such as Farnell, only ship to businesses by default. Contact their service department to order as an individual.
@@ -49,25 +50,29 @@ This week we have a number of assignments:
 
 * Build the sterile hood collectively with your local group.
 * Discuss the what the term "BioHacking" means to you.
+* Design a box or tuberack in SketchUp, to get acquainted with the software
 
 ## Additional reading and hacking
 
 * Biohacking
   * [DIYsect](http://www.diysect.com)
-  * [Biohacklabs](http://www.biohacklabs.org)
   * [DIYBio](http://www.diybio.org)
+  * [DIYBiosphere](http://sphere.diybio.org)
   * [Hackteria](http://www.hackteria.org)
   * [Biocoder](http://www.biocoder.com)
-  * [Open Source Bio Lab hardware overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
+  * [Community Bio Summit](https://www.biosummit.org)
+  * [Biofabforum](https://biofabforum.org)
+
 * Electronics
   * [Electronics for Dummies](http://www.amazon.com/Electronics-For-Dummies-Cathleen-Shamieh/dp/0470286970)
   * [Soldering](https://www.youtube.com/watch?v=oqV2xU1fee8) YouTube video
+
 * Sterile Hoods
   * [How to design a sterile hood](http://freshcapmushrooms.com/learn/keeping-it-clean-how-to-design-and-build-a-laminar-flow-hood/)
-  * [Hurricane DIY laminar flow hood](http://veit-penzenstadler.de/?p=104)
   * [Portable Laminar Flow Hood](http://www.instructables.com/id/Portable-Laminar-Flow-Hood/)
   * [Hackteria Sterile Hood](http://hackteria.org/wiki/index.php/DIY_Sterlisation_Hood)
   * [Quick hack](https://www.flickr.com/photos/meneertuur/3120019557/)
+  * [Less sterile alternative, quick hack: Dead-air box](https://scontent-sjc3-1.cdninstagram.com/vp/ffb89195d29640431b619df983228ca0/5CEF7280/t51.2885-15/e35/30079250_156272515044074_392636547171614720_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com)
 
 ## Feeling lazy?
 
@@ -76,4 +81,4 @@ Go ahead and buy a sterile hood:
 * Buy one on [eBay](http://www.ebay.com/bhp/laminar-flow-hood)
 
 
-Back to [BHA5 Classes](/bha5/classes/)
+Back to [BHA5 Classes](/bha6/classes/)
