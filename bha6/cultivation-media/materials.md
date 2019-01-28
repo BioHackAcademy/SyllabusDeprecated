@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Microbiology Practical Materials
-permalink: /bha5/cultivation-media/materials/
+permalink: /bha6/cultivation-media/materials/
 ---
 
 # Materials
 
-Download the [Material List](/bha5/cultivation-media/Material List.ods)
+Download the [Material List](/bha6/cultivation-media/Material List.ods)
 
 
-Back to [BHA5](/bha5/)
+Back to [BHA5](/bha6/)

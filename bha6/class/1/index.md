@@ -24,6 +24,7 @@ You are at the start of your journey into the marvelous world of Biohacking. To 
     * [Tube Rack Sketchup Demo file](/bha4/class/1/files/TubeRack.skp)
     * [Tube Rack OpenSCAD Demo file](/bha4/class/1/files/TubeRack.scad)
     * [Sketchup SVG Export video](https://vimeo.com/album/3816400/video/156577776)
+    * [SVG outline export Plugin](https://github.com/JoakimSoderberg/sketchup-svg-outline-plugin/releases)
 
 ## Devices
 
