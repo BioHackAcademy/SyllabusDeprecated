@@ -26,6 +26,9 @@ You are at the start of your journey into the marvelous world of Biohacking. To 
     * [Sketchup SVG Export video](https://vimeo.com/album/3816400/video/156577776)
     * [SVG outline export Plugin](https://github.com/JoakimSoderberg/sketchup-svg-outline-plugin/releases)
 
+> The designs in the BioHack Academy are made with [SketchUp Make](https://www.sketchup.com/download/make),
+using this [SVG export Plugin](https://github.com/JoakimSoderberg/sketchup-svg-outline-plugin/releases) to export SVGs. Download the latest rbz file and within SketchUp go to Window > Extension Manager to install the Plugin.
+
 ## Devices
 
 This week we will build our first Open Hardware lab device: the sterile hood. The design files can be found here:

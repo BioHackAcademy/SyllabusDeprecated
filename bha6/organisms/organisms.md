@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Organisms
-permalink: /bha5/organisms/
+permalink: /bha6/organisms/
 ---
 
 ## Organisms
@@ -10,14 +10,14 @@ The following cultures are available in the Waag Society's Open Wetlab. In case 
 
 {% for page in site.pages %}
 {% if page.categories contains 'culture-collection' %}
-{% if page.url contains 'bha5' %}
+{% if page.url contains 'bha6' %}
 * [{{ page.title }}]({{ page.url | prepend: site.baseurl }})
 {% endif %}
 {% endif %}
 {% endfor %}
 
 ## Cultivation media
-Here are all the [recipes for cultivation media](/bha4/cultivation-media/) to grow the microbes on listed above.
+Here are all the [recipes for cultivation media](/bha6/cultivation-media/) to grow the microbes on listed above.
 
 ## Isolate yourself
 
@@ -31,5 +31,3 @@ Here are all the [recipes for cultivation media](/bha4/cultivation-media/) to gr
 
 * Yeast can be found in the baking section of any supermarket
 * Lactobacilli are sold as pills at any drug store
-
-
