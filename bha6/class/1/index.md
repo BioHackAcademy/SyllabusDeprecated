@@ -10,11 +10,11 @@ You are at the start of your journey into the marvelous world of Biohacking. To 
 
 ## Schedule
 
-* Introduction
-* History of BioHacking
-* Biosafety by Per Staugaard
-* Software
-* Sterile Hood Design
+* Introduction [PDF](/bha6/class/1/pdf/1.1 - Introduction.pdf)
+* History of BioHacking [PDF](/bha6/class/1/pdf/1.2 - History of Biohacking.pdf)
+* Software [PDF](/bha6/class/1/pdf/1.3 - Software)
+* Sterile Hood Design [PDF](/bha6/class/1/pdf/1.4 - Sterile hood design)
+* Biosafety (Per Staugaard) [PDF](/bha6/class/1/pdf/1.5 Intro Biosafety.pdf)
 
 * Practicals
   * Tour around your fablab and wetlab facilities
