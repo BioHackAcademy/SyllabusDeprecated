@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Janthinobacterium lividum (JL) 
-permalink: /bha5/organisms/janthinobacterium-lividum/
+title: Janthinobacterium lividum (JL)
+permalink: /bha6/organisms/janthinobacterium-lividum/
 categories: culture-collection
 ---
 
-## Lactobacillus 
+## Lactobacillus
 
 * You can find them in diary products such as Yakult, yoghurt and milk.
-* Grows on Lactobaciulls-specific media like [MRS Agar](/bha4/cultivation-media/nutrient-agar/)
+* Grows on Lactobaciulls-specific media like [MRS Agar](/bha6/cultivation-media/nutrient-agar/)
 * Find out more on [Wikipedia](https://en.wikipedia.org/wiki/Lactobacillus) [Lactobacillus specific media](https://www.sigmaaldrich.com/analytical-chromatography/microbiology/microbiology-products.html?TablePage=18000693)
 
-![janthinobacterium lividum]({{ site.baseurl }}/bha4/organisms/JL.jpg) 
+![janthinobacterium lividum]({{ site.baseurl }}/bha6/organisms/JL.jpg) 
 
-[Back to Culture Collection](/bha5/organisms/)
+[Back to Culture Collection](/bha6/organisms/)
