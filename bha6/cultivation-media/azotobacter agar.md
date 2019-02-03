@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azotobacter Agar (AA)
-permalink: /bha5/cultivation-media/azotobacter-agar/
+permalink: /bha6/cultivation-media/azotobacter-agar/
 categories: cultivation-media
 ---
 
@@ -16,4 +16,4 @@ Suitable for growing nitrogen fixing Azotobacter, discovered by Beijerink
 |Agar|20.0|g|
 |Tap water| up to 1000|mL|
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

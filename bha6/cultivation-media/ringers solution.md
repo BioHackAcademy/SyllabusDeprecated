@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ringer's Solution
-permalink: /bha5/cultivation-media/ringers-solution/
+permalink: /bha6/cultivation-media/ringers-solution/
 categories: cultivation-media
 ---
 
@@ -17,4 +17,4 @@ Ringer's solution emulates the isotonic solution in bodily fluids.
 |NaHCO<sub>3</sub>|0.2|g|
 |Distilled water|up to 1000|mL|
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

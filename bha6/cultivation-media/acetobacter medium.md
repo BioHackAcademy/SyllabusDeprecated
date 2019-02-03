@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acetobacter Medium (AM)
-permalink: /bha5/cultivation-media/acetobacter-medium/
+permalink: /bha6/cultivation-media/acetobacter-medium/
 categories: cultivation-media
 ---
 
@@ -18,7 +18,7 @@ Suitable for growing acitic acid bacteria, in case you would like to isolate the
 |Citric acid|1.5|g|
 |Distellid water|up to 1000|mL|
 
-Add 0.5% ethanol after autoclaving and 0.7% calcium carbonate. 
+Add 0.5% ethanol after autoclaving and 0.7% calcium carbonate.
 
 To make plates, simply add 15 g/L agar.
 
@@ -28,4 +28,4 @@ To make plates, simply add 15 g/L agar.
 * Na<sub>2</sub>HPO<sub>4</sub> can be obtained by mixing NaOH and HPO<sub>4</sub> from drug store
 * Citric acid is sold in supermarkets
 
-[Back to Organisms](/bha5/organisms/)
+[Back to Organisms](/bha6/organisms/)

@@ -1,7 +1,7 @@
----
+s---
 layout: default
 title: Nutrient Agar (NA)
-permalink: /bha5/cultivation-media/nutrient-agar/
+permalink: /bha6/cultivation-media/nutrient-agar/
 categories: cultivation-media
 ---
 
@@ -17,7 +17,7 @@ Suitable for growing a wide range of bacteria none selectively
 |Agar|15.0|g|
 |Demi water| up to 1000|mL|
 
-Set pH ~4.7 
+Set pH ~4.7
 
 ### Biohacker Alternative
 
@@ -27,4 +27,4 @@ Set pH ~4.7
 * Peptone can be replaced by any peptic digest of animal tissue
 * Yeast extract can be replaced by beef extract
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Malt Agar (MA)
-permalink: /bha5/cultivation-media/malt-agar/
+permalink: /bha6/cultivation-media/malt-agar/
 categories: cultivation-media
 ---
 
@@ -15,10 +15,10 @@ Non-selective medium suitable for growing yeast and fungi, for example slime mol
 |Agar|20|g|
 |Demi water| up to 1000|mL|
 
-Set pH ~5.5 
+Set pH ~5.5
 
 ### Biohacker Alternative
 
 * Malt extract can be easily made DIY style by boiling malt in water
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

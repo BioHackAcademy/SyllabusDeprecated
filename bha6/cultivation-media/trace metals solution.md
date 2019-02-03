@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trace Metals Solution (TMS)
-permalink: /bha5/cultivation-media/trace-metals-solution/
+permalink: /bha6/cultivation-media/trace-metals-solution/
 categories: cultivation-media
 ---
 
@@ -25,4 +25,4 @@ categories: cultivation-media
 
 * The entire TMS can be replaced by ion mixture that are often sold as water conditioners in the aquarium store.
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

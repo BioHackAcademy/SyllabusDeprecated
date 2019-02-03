@@ -1,7 +1,7 @@
 ---
 layout: default
 title: THt (THt)
-permalink: /bha5/cultivation-media/tht/
+permalink: /bha6/cultivation-media/tht/
 categories: cultivation-media
 ---
 
@@ -20,4 +20,4 @@ Suitable for growing autotrophic sulfur-oxidizing bacteria
 * Phenol red is often sold as an pH indicator for swimming pools
 * Thiosulfate can be found in camera shops as photo developing agent and dechlorinator in aquarium stores
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

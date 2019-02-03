@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vibrio Fischeri Agar (VFA)
-permalink: /bha5/cultivation-media/vibrio-fischeri-agar/
+permalink: /bha6/cultivation-media/vibrio-fischeri-agar/
 categories: cultivation-media
 ---
 
@@ -17,4 +17,4 @@ categories: cultivation-media
 
 Derived from the [London Biohackers](https://wiki.london.hackspace.org.uk/view/Project:Growing_bacteria)
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plate Count Agar (PCA)
-permalink: /bha5/cultivation-media/plate-count-agar/
+permalink: /bha6/cultivation-media/plate-count-agar/
 categories: cultivation-media
 ---
 
@@ -17,7 +17,7 @@ Suitable for growing a wide range of bacteria none selectively
 |Agar|9.0|g|
 |Demi water| up to 1000|mL|
 
-Set pH ~7.0 
+Set pH ~7.0
 
 ### Biohacker Alternative
 
@@ -25,4 +25,4 @@ Set pH ~7.0
 * Peptone can be found on eBay.
 * Yeast extract is often sold as pills in drugstores
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peptone Agar (PA)
-permalink: /bha5/cultivation-media/peptone-agar/
+permalink: /bha6/cultivation-media/peptone-agar/
 categories: cultivation-media
 ---
 
@@ -14,11 +14,11 @@ categories: cultivation-media
 |Agar|2.0|g|
 |Demi water| up to 1000|mL|
 
-Set pH ~7.2 
+Set pH ~7.2
 
 ### Biohacker Alternative
 
 * Please note: peptone is very dusty, so try not to inhale it.
 * Peptone can be found on eBay.
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

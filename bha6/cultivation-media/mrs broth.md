@@ -1,7 +1,7 @@
----
+s---
 layout: default
 title: MRS Broth (MRSB)
-permalink: /bha5/cultivation-media/mrs-broth/
+permalink: /bha6/cultivation-media/mrs-broth/
 categories: cultivation-media
 ---
 
@@ -14,4 +14,4 @@ Suitable for growing lactic acid bacteria
 |MRS Broth|52.2|g|
 |Demi water| up to 1000|mL|
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

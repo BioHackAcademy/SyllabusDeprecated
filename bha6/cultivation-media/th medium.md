@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TH medium (TH)
-permalink: /bha5/cultivation-media/th-medium/
+permalink: /bha6/cultivation-media/th-medium/
 categories: cultivation-media
 ---
 
@@ -22,4 +22,4 @@ Suitable for growing autotrophic sulfur-oxidizing bacteria
 
 * All these chemicals are sold in aquarium stores and algae growth shops
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)

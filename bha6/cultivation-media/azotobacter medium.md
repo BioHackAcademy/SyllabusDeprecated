@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azotobacter Medium (AM)
-permalink: /bha5/cultivation-media/azotobacter-medium/
+permalink: /bha6/cultivation-media/azotobacter-medium/
 categories: cultivation-media
 ---
 
@@ -15,4 +15,4 @@ Suitable for growing nitrogen fixing Azotobacter, discovered by Beijerink
 |K<sub>2</sub>HPO<sub>4</sub>|0.5|g|
 |Tap water| up to 1000|mL|
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha6/organisms/)
