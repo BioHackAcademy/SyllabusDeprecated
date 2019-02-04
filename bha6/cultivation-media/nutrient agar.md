@@ -1,4 +1,4 @@
-s---
+---
 layout: default
 title: Nutrient Agar (NA)
 permalink: /bha6/cultivation-media/nutrient-agar/

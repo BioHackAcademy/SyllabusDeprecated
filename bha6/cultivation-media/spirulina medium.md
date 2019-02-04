@@ -1,4 +1,4 @@
-s---
+---
 layout: default
 title: Spirulina Medium (SM)
 permalink: /bha6/cultivation-media/spirulina-medium/
