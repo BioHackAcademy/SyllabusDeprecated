@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Contamination Test
-permalink: /bha4/class/2/contamination-test/
+permalink: /bha6/class/2/contamination-test/
 ---
 
 ## Goal
 
-Microorganisms are always around and ready to contaminate your carefully grown cultures. In this practical we will determine what common airborne contaminents look like. This makes it easier to identify them when they pop up on your plates later on
+Microorganisms are always around and ready to contaminate your carefully grown cultures. In this practical we will determine what common airborne contaminants look like. This makes it easier to identify them when they pop up on your plates later on
 
 ## Materials
 
 * 1 Peptone agar (PA) plate, favourable to bacteria
 * 1 Malt agar (MA) plate, favourable to yeast and fungi
 
-In case you have no clue how to make Agar plates, please take a look at the [Microbiology at Home](http://exploringtheinvisible.com/2012/11/05/94/) manual of Dr. Simon Park or follow our [BHA Microbe Cultivation Manual](/bha3/class/2/Microbe Cultivation Manual.pdf). You will need a pressure cooker to sterilize the mediums.
+In case you have no clue how to make Agar plates, please take a look at the [Microbiology at Home](http://exploringtheinvisible.com/2012/11/05/94/) manual of Dr. Simon Park or follow our [BHA Microbe Cultivation Manual](/bha6/class/2/Microbe Cultivation Manual.pdf). You will need a pressure cooker to sterilize the mediums.
 
 ## Method
 
@@ -32,4 +32,4 @@ You can also use this method to test whether your sterile hood works properly. T
 * [Samples from fellow participants](http://margot2001.github.io/portraits.html) by Margot during BHA2
 * [Results of Eline](http://elinevanderploeg.github.io/endexam/biohack.html#p-expiriments)
 
-Back to [BHA4 - Class 2](/bha4/class/3/)
+Back to [BHA6 - Class 2](/bha6/class/2/)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of Yoghurt bacteria
-permalink: /bha4/class/2/yoghurt-bacteria-isolation/
+permalink: /bha6/class/2/yoghurt-bacteria-isolation/
 ---
 
 ## Goal
@@ -32,7 +32,7 @@ When lactose is converted into lactic acid by bacteria, milk is converted into y
 
 * Microscope
 * Microscope slides and cover slides
-* Gram and Loeffler staining 
+* Gram and Loeffler staining
 
 ## Method Step 1
 
@@ -65,6 +65,6 @@ After about one week:
 After about one more week:
 
 1. Perform a Gram staining on the bacteria and a Loeffler staining on the yeast.
-2. Take a look at the cultures under the microscope. 
+2. Take a look at the cultures under the microscope.
 
 Back to [BHA4](/bha4/class/2/)
