@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 3 - Electronics & Coding
-permalink: /bha5/class/3/
+permalink: /bha6/class/3/
 ---
 
 ## Synopsys
@@ -10,21 +10,26 @@ Build your own incubator, a constant environment for growing microbes. A crash c
 
 ## Schedule
 
-* Molecular Biology [PDF](/bha5/class/3/pdf/3.1 Molecular Biology.pdf) - [Video](https://vimeo.com/255447806)
-* Bio Art [PDF](/bha5/class/3/pdf/3.2 Bio Art.pdf) - [Video](https://vimeo.com/255448615)
-* Arduino [PDF](/bha5/class/3/pdf/3.3 Arduino.pdf) - [Video](https://vimeo.com/255449220)
-* Incubator design [PDF](/bha5/class/3/pdf/3.4 Incubator design.pdf)
+* Molecular Biology
+* Bio Art
+* Arduino
+* Incubator design
 * Practicals
-  * [Isolating microbes](http://www.ableweb.org/volumes/vol-14/6-steubing.pdf)
   * Arduino coding
+  * Isolate microbes, for example following these protocols:
+    * [Isolation of beer yeasts](/bha6/class/3/isolation-of-beer-yeast/)
+    * [Isolation of bioluminescent bacteria](/bha6/class/3/isolation-of-bioluminescent-bacteria/)
+    * [Isolation of yoghurt bacteria](/bha6/class/3/isolation-of-yoghurt-bacteria/)
+    * [Isolation of nitrogen-fixating bacteria](/bha6/class/3/isolation-of-nitrogen-fixating-bacteria/)
+    * [Isolation of sulphur-oxidizing bacteria](/bha6/class/3/isolation-of-sulphur-oxidizing-bacteria/)
 
 ## Devices
 
-Living organisms need a nice and comfort environment to grow in. 
+Living organisms need a nice and comfort environment to grow in.
 
 * [BHA_Incubator repository](https://github.com/BioHackAcademy/BHA_Incubator)
 
-![Incubator](/bha4/class/3/Incubator-Sketchup.png)
+![Incubator](/bha6/class/3/Incubator-Sketchup.png)
 
 ## Bill of Materials
 
@@ -36,7 +41,9 @@ In order to take part in this class you will need the following materials:
 
 ## Additional reading and hacking
 
-* Arduino 
+* Isolating microbes
+  * [Isolating microbes](hhttp://www.ableweb.org/biologylabs/wp-content/uploads/volumes/vol-14/6-steubing.pdf)
+* Arduino
   * [Tutorials on arduino.cc](https://www.arduino.cc/en/Tutorial/HomePage)
   * [Getting started with Arduino](http://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/)
   * [Arduino Cheatsheet, CC-BY-SA liffiton](https://github.com/liffiton/Arduino-Cheat-Sheet/blob/master/Arduino%20Cheat%20Sheet.pdf/)
@@ -52,4 +59,4 @@ Go ahead and buy an incubator:
 
 * [Lucky Reptile](http://www.amazon.co.uk/Lucky-Reptile-HN-2UK-Nursery-Incubator/dp/B002NFR0HQ)
 
-Back to [BHA5 Classes](/bha5/classes/)
+Back to [BHA6 Classes](/bha6/classes/)
