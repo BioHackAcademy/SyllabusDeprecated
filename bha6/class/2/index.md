@@ -10,11 +10,11 @@ This week we will start growing microbes under controlled conditions. During the
 
 ## Schedule
 
-* Microbiology
-* Principles of Electronics
-* Documentation & Open source licensing
+* Microbiology - [PDF](/bha6/class/2/pdf/2.1 - Microbiology.pdf)
+* Principles of Electronics - [PDF](/bha6/class/2/pdf/2.2 - Electronics.pdf)
+* Documentation & Open source licensing - [PDF](/bha6/class/2/pdf/2.3 - Documentation.pdf)
   * [Setting up a Github page](https://github.com/BioHackAcademy/BHA_DocumentationSite)
-* Magnetic Stirrer design
+* Magnetic Stirrer design - [PDF](/bha6/class/2/pdf/2.4 - Magnetic Stirrer design.pdf)
 * Practicals
   * [Contamination test](/bha6/class/2/contamination-test/)
   * [Cultivating microbes](/bha6/class/2/Microbe Cultivation Manual.pdf) of the [Culture Collection](/bha6/organisms/)
@@ -46,7 +46,7 @@ In order to take part in this class you will need the following materials:
   * [Git cheatsheet](http://rogerdudler.github.io/git-guide/)
 * Magnetic Stirrer
   * [TeklaLabs](http://www.teklalabs.org/magnetic-stirrer/)
-  * [IORodeo](http://www.iorodeo.com/content/desktop-stir-plate-kit)
+  * [IORodeo](http://public.iorodeo.com/docs/stir_plate/)
 * Licensing
   * [Open Source Initiative](https://opensource.org/licenses/category)
 
