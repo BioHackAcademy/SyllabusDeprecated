@@ -10,11 +10,11 @@ You are at the start of your journey into the marvelous world of Biohacking. To 
 
 ## Schedule
 
-* Introduction [PDF](/bha6/class/1/pdf/1.1 - Introduction.pdf)
-* History of BioHacking [PDF](/bha6/class/1/pdf/1.2 - History of Biohacking.pdf)
-* Software [PDF](/bha6/class/1/pdf/1.3 - Software.pdf)
-* Sterile Hood Design [PDF](/bha6/class/1/pdf/1.4 - Sterile hood design.pdf)
-* Biosafety (Per Staugaard) [PDF](/bha6/class/1/pdf/1.5 Intro Biosafety.pdf)
+* Introduction [PDF](/bha6/class/1/pdf/1.1 - Introduction.pdf) - [VIDEO](https://vimeo.com/315469696)
+* History of BioHacking [PDF](/bha6/class/1/pdf/1.2 - History of Biohacking.pdf) - [VIDEO](https://vimeo.com/315477448)
+* Software [PDF](/bha6/class/1/pdf/1.3 - Software.pdf) - [VIDEO](https://vimeo.com/315482320)
+* Sterile Hood Design [PDF](/bha6/class/1/pdf/1.4 - Sterile hood design.pdf) - [VIDEO](https://vimeo.com/315920657)
+* Biosafety (Per Staugaard) [PDF](/bha6/class/1/pdf/1.5 Intro Biosafety.pdf) - [VIDEO 1/3](https://vimeo.com/315922942) - [VIDEO 2/3](https://vimeo.com/315929553) - [VIDEO 3/3](https://vimeo.com/315931885)
 
 * Practicals
   * Tour around your fablab and wetlab facilities
