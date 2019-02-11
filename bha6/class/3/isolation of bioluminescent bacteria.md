@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of bioluminescent bacteria
-permalink: /bha6/class/3/bioluminescent-bacteria-isolation/
+permalink: /bha6/class/3/isolation-of-bioluminescent-bacteria-isolation/
 ---
 
 ## Goal

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of Beer yeasts
-permalink: /bha6/class/3/beer-yeasts-isolation/
+permalink: /bha6/class/3/isolation-of-beer-yeasts/
 ---
 
 ## Goal

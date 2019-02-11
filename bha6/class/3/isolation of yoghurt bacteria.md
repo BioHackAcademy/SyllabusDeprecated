@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of Yoghurt bacteria
-permalink: /bha6/class/3/yoghurt-bacteria-isolation/
+permalink: /bha6/class/3/isolation-of-yoghurt-bacteria/
 ---
 
 ## Goal

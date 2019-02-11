@@ -17,7 +17,7 @@ Build your own incubator, a constant environment for growing microbes. A crash c
 * Practicals
   * Arduino coding
   * Isolate microbes, for example following these protocols:
-    * [Isolation of beer yeasts](/bha6/class/3/isolation-of-beer-yeast/)
+    * [Isolation of beer yeasts](/bha6/class/3/isolation-of-beer-yeasts/)
     * [Isolation of bioluminescent bacteria](/bha6/class/3/isolation-of-bioluminescent-bacteria/)
     * [Isolation of yoghurt bacteria](/bha6/class/3/isolation-of-yoghurt-bacteria/)
     * [Isolation of nitrogen-fixating bacteria](/bha6/class/3/isolation-of-nitrogen-fixating-bacteria/)
