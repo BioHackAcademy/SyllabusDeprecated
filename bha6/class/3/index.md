@@ -42,7 +42,7 @@ In order to take part in this class you will need the following materials:
 ## Additional reading and hacking
 
 * Isolating microbes
-  * [Isolating microbes](hhttp://www.ableweb.org/biologylabs/wp-content/uploads/volumes/vol-14/6-steubing.pdf)
+  * [Isolating microbes](http://www.ableweb.org/biologylabs/wp-content/uploads/volumes/vol-14/6-steubing.pdf)
 * Arduino
   * [Tutorials on arduino.cc](https://www.arduino.cc/en/Tutorial/HomePage)
   * [Getting started with Arduino](http://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/)
