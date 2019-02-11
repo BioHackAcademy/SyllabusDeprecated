@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of bioluminescent bacteria
-permalink: /biofactory/class/1-incubator/bioluminescent-bacteria-isolation/
+permalink: /bha6/class/3/bioluminescent-bacteria-isolation/
 ---
 
 ## Goal
@@ -33,4 +33,4 @@ In the ocean many organisms produce light. There are also many diffent colors. I
 9. Sub culture a colony in a 25 mL ASW liquid medium in a Erlenmeyer flask. Incubate at 24&deg; C.
 10. Put the tube with diffuser in the flask and turn on the air pump
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+Back to [BHA6](/bha6/class/3/)

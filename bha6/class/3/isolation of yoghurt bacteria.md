@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of Yoghurt bacteria
-permalink: /bha6/class/2/yoghurt-bacteria-isolation/
+permalink: /bha6/class/3/yoghurt-bacteria-isolation/
 ---
 
 ## Goal
@@ -67,4 +67,4 @@ After about one more week:
 1. Perform a Gram staining on the bacteria and a Loeffler staining on the yeast.
 2. Take a look at the cultures under the microscope.
 
-Back to [BHA4](/bha4/class/2/)
+Back to [BHA6](/bha6/class/3/)

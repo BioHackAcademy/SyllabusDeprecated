@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of Beer yeasts
-permalink: /biofactory/class/1-incubator/beer-yeasts-isolation/
+permalink: /bha6/class/3/beer-yeasts-isolation/
 ---
 
 ## Goal
@@ -32,7 +32,7 @@ Especially famous Belgian beers continue to ferment in the bottle. During fermen
 
 * Microscope
 * Microscope slides and cover slides
-* Gram and Loeffler staining 
+* Gram and Loeffler staining
 
 ## Method Step 1
 
@@ -65,6 +65,6 @@ After about one week:
 After about one more week:
 
 1. Perform a Gram staining on the bacteria and a Loeffler staining on the yeast.
-2. Take a look at the cultures under the microscope. 
+2. Take a look at the cultures under the microscope.
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+Back to [BHA6](/bha6/class/3/)

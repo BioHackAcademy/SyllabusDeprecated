@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of Sulphur-oxidizing bacteria
-permalink: /biofactory/class/1-incubator/isolation-of-sulphur-oxidizing-bacteria/
+permalink: /bha6/class/3/isolation-of-sulphur-oxidizing-bacteria/
 ---
 
 ## Goal
@@ -27,4 +27,4 @@ Some bacteria can grown without any organic compound, except CO<sub>2</sub>. The
 8. Incubate this flask again at 30&deg; C on a shaker.
 9. Check for color change and measure the pH.
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+Back to [BHA6](/bha6/class/3/)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isolation of Nitrogen-fixating bacteria
-permalink: /biofactory/class/1-incubator/isolation-of-nitrogen-fixating-bacteria/
+permalink: /bha6/class/3/isolation-of-nitrogen-fixating-bacteria/
 ---
 
 ## Goal
@@ -33,4 +33,4 @@ N<sub>2</sub> is a gas that ubiquitously available in the atmosphere. Some speci
 13. Check after 24h.
 
 
-Back to [Biofactory - Class 1: Incubator](/biofactory/class/1-incubator/)
+Back to [BHA6](/bha6/class/3/)
