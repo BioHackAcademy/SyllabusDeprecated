@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Operating a Microscope
-permalink: /bha5/class/4/operating-microscope/
+permalink: /bha6/class/4/operating-microscope/
 ---
 
 ## Goal
@@ -12,7 +12,7 @@ This practical gives you insight in how a microscope works and how you can opera
 
 Let's start by taking a closer look at the parts of a microscope.
 
-![Microscope Parts - CC BY SA 4.0](/bha4/class/4/microscope-parts.svg)
+![Microscope Parts - CC BY SA 4.0](/bha6/class/4/microscope-parts.svg)
 *Microscope Parts - Published by Waag Society under Creative Commons BY SA 4.0 license*
 
 The final magnification of a microscope is equal to the multiple of the magnification of the lens and the objective. In the Open Wetlab microscopes the lens magnifies 10x and there are objectives for 4x, 10x, 40x and 100x magnification.
@@ -43,4 +43,4 @@ Underneath the stage a third lens setup can be found. This is the condenser. Usi
 1. Switch of the light!!
 2. Select the 10x objective.
 
-Back to [BHA5 - Class 4](/bha5/class/4/)
+Back to [BHA6 - Class 4](/bha6/class/4/)

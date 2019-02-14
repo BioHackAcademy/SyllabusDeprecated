@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preparing Microscope Slides
-permalink: /bha5/class/4/preparing-slides/
+permalink: /bha6/class/4/preparing-slides/
 ---
 
 ## Goal
@@ -25,7 +25,7 @@ In order to take a close look at a biological sample, you will need to prepare a
 1. Cut a piece of tissue as thin as possible
 2. Put a small droplet of water on an object slide.
 3. Put the piece of tissue into the droplet. Make sure the tissue stretches and does not curl.
-4. a. Continue with staining OR 
+4. a. Continue with staining OR
    b. Put on the cover slide
 
 ## Method for colonies on solid medium
@@ -36,7 +36,7 @@ In order to take a close look at a biological sample, you will need to prepare a
 4. Open up the Petri dish and check whether loop is cooled down by touching a clear spot of the agar.
 4. Stick the loop into a colony.
 5. Swirl the loop through the droplet on the object slide.
-6. a.Continue with staining. OR 
+6. a.Continue with staining. OR
    b. Put on the cover slide.
 
 ## Method for liquid cultures
@@ -48,7 +48,7 @@ In order to take a close look at a biological sample, you will need to prepare a
 5. Take up a small sample with the pipette.
 6. Move the opening of the flask through the flame once more and put the plug back in.
 7. Transfer the droplet onto the object slide.
-8. a. Continue with staining OR b. Cover the droplet with a cover slide. 
+8. a. Continue with staining OR b. Cover the droplet with a cover slide.
 
 
-Back to [BHA5 - Class 4](/bha5/class/4/)
+Back to [BHA6 - Class 4](/bha6/class/4/)

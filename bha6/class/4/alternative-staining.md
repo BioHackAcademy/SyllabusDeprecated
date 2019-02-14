@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alternative stain
-permalink: /bha5/class/4/Alternative stain/
+permalink: /bha6/class/4/Alternative stain/
 ---
 
 ## Goal
@@ -22,7 +22,7 @@ Visualize cell nuclei in eukaryote cells.
 
 ## Method
 
-1. Prepare a drop of sample on your microscope slide according to our [Method](/bha4/class/4/preparing-slides/)
+1. Prepare a drop of sample on your microscope slide according to our [Method](/bha6/class/4/preparing-slides/)
 2. Air dry the sample for 5 to 10 minutes.
 3. Soak the cells in a drop of 95% alcohol to dehydrate the cells
 4. Air dry the sample for 5 to 10 minutes, make sure all the alcohol is evaporated
@@ -42,4 +42,4 @@ Visualize cell nuclei in eukaryote cells.
 
 * [Illustrated guide to home biology](http://www.thehomescientist.com/manuals/Illustrated_Guide_to_Home_Biology_Experiments.pdf)
 
-Back to [BHA5 - Class 4](/bha5/class/4/)
+Back to [BHA6 - Class 4](/bha6/class/4/)

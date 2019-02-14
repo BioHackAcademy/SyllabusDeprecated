@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 4 - Optics & Microscopy
-permalink: /bha5/class/4/
+permalink: /bha6/class/4/
 ---
 
 ## Synopsys
@@ -11,16 +11,14 @@ cultures have grown. The subject of this class is optics and biomaterial product
 
 ## Schedule
 
-* Microscopy & Optics theory [PDF](/bha5/class/4/pdf/4.1 Microscopy & Optics theory.pdf) - [Video](https://vimeo.com/257136330)
-* Microscope Design [PDF](/bha5/class/4/pdf/4.2 Microscope design.pdf) - [Video](https://vimeo.com/257136811)
-* Gene.coop Discussion: genetics and ethics. [gene coop contract](/bha5/class/4/pdf/gene coop contract.pdf)
+* Microscopy & Optics theory
+* Microscope Design
 * Practicals
-  * [Preparing microscope slides](/bha5/class/4/preparing-slides/)
-  * [Operating a microscope](/bha5/class/4/operating-microscope/)
-  * [Gram Staining](/bha5/class/4/gram-staining/)
-  * [Loeffler Methylene Blue Staining](/bha5/class/4/loeffler-staining/)
-  * Liquid culturing
-  * [Alternative staining with food colouring](/bha5/class/4/Alternative stain/)
+  * [Preparing microscope slides](/bha6/class/4/preparing-slides/)
+  * [Operating a microscope](/bha6/class/4/operating-microscope/)
+  * [Gram Staining](/bha6/class/4/gram-staining/)
+  * [Loeffler Methylene Blue Staining](/bha6/class/4/loeffler-staining/)
+  * [Alternative staining with food colouring](/bha6/class/4/Alternative stain/)
 
 ## Devices
 
@@ -64,4 +62,4 @@ Go ahead and buy a microscope:
 
 * [LCD video microscope](https://www.conrad.nl/nl/bresser-lcd-microscoop-35-inch-40x-1600x-815889.html)
 
-Back to [BHA4 Classes](/bha4/classes/)
+Back to [BHA6 Classes](/bha6/classes/)

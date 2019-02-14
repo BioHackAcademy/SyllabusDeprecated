@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gram Staining
-permalink: /bha5/class/4/gram-staining/
+permalink: /bha6/class/4/gram-staining/
 ---
 
 ## Goal
@@ -30,7 +30,7 @@ Assess whether the biological sample contains Gram positive or Gram negative bac
 
 ## Method
 
-1. Prepare a drop of sample on your microscope slide according to the [Method](/bha4/class/4/preparing-slides/)
+1. Prepare a drop of sample on your microscope slide according to the [Method](/bha6/class/4/preparing-slides/)
 2. Leave the sample to air dry for 5 to 10 minutes.
 3. Fixate by moving the slide back and forth through a flame for a few seconds.
 4. Stain the sample by a droplet of crystal violet and let it stain for max 60 seconds.
@@ -53,14 +53,13 @@ Assess whether the biological sample contains Gram positive or Gram negative bac
 * Gram positive cells appear violet
 * Gram negative cells appear red
 
+![Gram stain](/bha6/class/4/gram-stain.jpg)
 
-Back to [BHA5 - Class 4](/bha5/class/4/)
-
-Microscopic image of a Gram stain of mixed Gram-positive cocci (Staphylococcus aureus ATCC 25923, purple) and Gram-negative bacilli (Escherichia coli ATCC 11775, red). Magnification: 1.000x - Picture by [Y tambe](http://commons.wikimedia.org/wiki/File:Gram_stain_01.jpg) CC BY SA 3.0 license 
+Microscopic image of a Gram stain of mixed Gram-positive cocci (Staphylococcus aureus ATCC 25923, purple) and Gram-negative bacilli (Escherichia coli ATCC 11775, red). Magnification: 1.000x - Picture by [Y tambe](http://commons.wikimedia.org/wiki/File:Gram_stain_01.jpg) CC BY SA 3.0 license
 
 ## Read more
 
 * [Wikipedia](http://en.wikipedia.org/wiki/Gram_staining)
 * [Gram Staining instruction video](https://www.youtube.com/watch?v=9Bnak_ITqck)
 
-Back to [BHA5 - Class 4](/bha5/class/4/)
+Back to [BHA6 - Class 4](/bha6/class/4/)

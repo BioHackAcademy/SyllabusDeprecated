@@ -1,21 +1,21 @@
 ---
 layout: page
 title: Class 5 - Genetics
-permalink: /bha5/class/5/
+permalink: /bha6/class/5/
 ---
 
 ## Synopsys
 
-This week we will start working with DNA, the fundamental building block of life. In the lecture you will learn all about 
+This week we will start working with DNA, the fundamental building block of life. In the lecture you will learn all about
 
 ## Schedule
 
-* Genetics [PDF](/bha5/class/5/pdf/5.1 Genetics.pdf) - [Video](https://vimeo.com/257593950)
-* Thermocycler design [PDF](/bha5/class/5/pdf/5.1 Thermocycler Design.pdf) - [Video](https://vimeo.com/257594848)
+* Genetics
+* Thermocycler design
 * Practicals
-  * [DNA extraction](/bha5/class/5/DNA-extraction/)
-  * [Mystery Meat Experiment slides](/bha5/class/5/pdf/Mystery meat experiment.pdf)
-  * [Mystery Meat Experiment protocol](/bha5/class/5/pdf/Mystery Meat Protocol BHA5.pdf)
+  * [DNA extraction](/bha6/class/5/DNA-extraction/)
+  * [Mystery Meat Experiment slides](/bha6/class/5/pdf/Mystery meat experiment.pdf)
+  * [Mystery Meat Experiment protocol](/bha6/class/5/pdf/Mystery Meat Protocol BHA5.pdf)
 * Other possible practicals:
   * [DNA profiling](http://www.bio-rad.com/en-nl/sku/1660007-forensic-dna-fingerprinting-kit?ID=1660007)
   * [Cloning](http://www.bio-rad.com/en-nl/product/pglo-bacterial-transformation-kit?ID=619b8f74-9d3f-4c2f-a795-8a27e67598b7)
@@ -30,7 +30,7 @@ We have started to design our own thermocycler, but there are already so many Op
 
 * [BHA_Thermocycler repository](https://github.com/BioHackAcademy/BHA_Thermocycler)
 
-![Thermocycler](/bha5/class/5/Thermocycler.png)
+![Thermocycler](/bha6/class/5/Thermocycler.png)
 
 ### Gelbox
 
@@ -38,13 +38,13 @@ Well, a Gelbox is exactly what the name tells you: a box. The only special featu
 
 * [BHA_Gelbox repository](https://github.com/BioHackAcademy/BHA_GelBox)
 
-![Gelbox](/bha5/class/5/GelBox.png)
+![Gelbox](/bha6/class/5/GelBox.png)
 
 ### Power supply
 
 Completely open source, perfectly suitable: [IO Rodeo Power Supply](http://www.iorodeo.com/content/electrophoresis-power-supply-kit)
 
-![Power Supply](/bha4/class/5/Powersupply.png)
+![Power Supply](/bha6/class/5/Powersupply.png)
 
 ## Bill of Materials
 
@@ -64,4 +64,4 @@ Go ahead and buy a thermocycler:
 
 * [BioRad PCR machines](http://www.bio-rad.com/en-nl/category/pcr-instrumentation)
 
-Back to [BHA5 Classes](/bha5/classes/)
+Back to [BHA6 Classes](/bha6/classes/)
