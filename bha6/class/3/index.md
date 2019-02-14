@@ -10,10 +10,10 @@ Build your own incubator, a constant environment for growing microbes. A crash c
 
 ## Schedule
 
-* Molecular Biology - [PDF](/bha6/class/3/pdf/3.1 Molecular Biology.pdf)
-* Bio Art (by Lucas Evers) - [PDF](/bha6/class/3/pdf/3.2 Bio Art Presentation Lucas Evers in Taiwan.pdf)
-* Arduino - [PDF](/bha6/class/3/pdf/3.3 Arduino.pdf)
-* Incubator design - [PDF](/bha6/class/3/pdf/3.4 Incubator design.pdf)
+* Molecular Biology - [PDF](/bha6/class/3/pdf/3.1 Molecular Biology.pdf) - [VIDEO](https://vimeo.com/317243457)
+* Bio Art (by Lucas Evers) - [PDF](/bha6/class/3/pdf/3.2 Bio Art Presentation Lucas Evers in Taiwan.pdf) - [VIDEO](https://vimeo.com/317246654)
+* Arduino - [PDF](/bha6/class/3/pdf/3.3 Arduino.pdf) - [VIDEO](https://vimeo.com/317252302)
+* Incubator design - [PDF](/bha6/class/3/pdf/3.4 Incubator design.pdf) - [VIDEO](https://vimeo.com/317253616)
 * Practicals
   * Arduino coding
   * Isolate microbes, for example following these protocols:
