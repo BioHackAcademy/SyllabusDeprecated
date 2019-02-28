@@ -11,8 +11,11 @@ cultures have grown. The subject of this class is optics and biomaterial product
 
 ## Schedule
 
-* Microscopy & Optics theory
-* Microscope Design
+* Microscopy & Optics theory - [PDF](/bha6/class/4/pdf/4.1 Microscopy and Optics.pdf) - [VIDEO](https://vimeo.com/318490551)
+* Microscope Design  - [PDF](/bha6/class/4/pdf/4.2 Microscope design.pdf) - [VIDEO](https://vimeo.com/318491494)
+* Biotic Games [PDF](/bha6/class/4/pdf/Biotic Games.pdf) - [VIDEO](https://vimeo.com/318492300)
+* Guest Lecture Gunter Seyfried [VIDEO](https://vimeo.com/318492633) - [PDF Waldinhalierbar](/bha6/class/4/pdf/waldinhalierbar.pdf)
+
 * Practicals
   * [Preparing microscope slides](/bha6/class/4/preparing-slides/)
   * [Operating a microscope](/bha6/class/4/operating-microscope/)
