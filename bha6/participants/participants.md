@@ -15,6 +15,11 @@ Please send the link to your documentation site as soon as it is setup to [rolan
 * [Biolab Seoul - South Korea](http://fablab-seoul.org/2019biohackacademy/)
 * [BioClub Tokyo - Japan](http://www.bioclub.org)
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
+  * [Miranda Chun](https://mirandarae.github.io/mirandachun/)
+  * [Patricia Melton](http://www.meltonpat.github.io)
+  * [Rowan Willow](https://rowanwillow.github.io)
+https://rowanwillow.github.io/
+https://mirandarae.github.io/mirandachun/
 * [Waag Society's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-6)
   * [Misha van den Berg](https://mischavandenberg.github.io)
   * [Candyce Dryburgh](https://dcandyce.github.io/)
