@@ -13,7 +13,11 @@ Here you may find [the instructions to create your own Github page](https://gith
 Please send the link to your documentation site as soon as it is setup to [roland@waag.org](mailto:roland@waag.org).
 
 * [Biolab Seoul - South Korea](http://fablab-seoul.org/2019biohackacademy/)
+  * [Tex Kang](https://texkang.github.io)
+  * [Donghyun Kim](https://astronoize.github.io/)
+  * [Daehan Won](https://gsk1040.github.io)
 * [BioClub Tokyo - Japan](http://www.bioclub.org)
+  * [Shinichiro Murakami](https://materdd.github.io)
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
   * [Miranda Chun](https://mirandarae.github.io/mirandachun/)
   * [Patricia Melton](http://www.meltonpat.github.io)
