@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chloroplast Isolation
-permalink: /bha5/class/7/chloroplast-isolation/
+permalink: /bha6/class/7/chloroplast-isolation/
 ---
 
 ### Materials
@@ -35,4 +35,4 @@ permalink: /bha5/class/7/chloroplast-isolation/
 12. Resuspend the pellet in 0.5 mL 80% acetone
 13. Examine the samples under the microscope and/or measure the absorbance at OD650. You can count the number of Chloroplasts per mL
 
-Return to [BHA5 - class 7](/bha5/class/7)
+Return to [BHA6 - class 7](/bha6/class/7)
