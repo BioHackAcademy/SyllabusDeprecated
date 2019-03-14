@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Class 7 - Guest Lecture
+title: Class 7 - Bioinformatics
 permalink: /bha6/class/7/
 ---
 
@@ -8,7 +8,7 @@ permalink: /bha6/class/7/
 
 This week we'll focus on bioinformatics and the centrifuge.
 
-We’ll also try to isolate our first biomaterial using centrifugatino.
+We’ll also try to isolate our first biomaterial using centrifugation.
 
 ## Schedule
 
