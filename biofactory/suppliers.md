@@ -18,6 +18,7 @@ Netherlands:
 * [Floris.cc](http://www.floris.cc)
 * [Ben's Electronics](https://benselectronics.nl)
 * [Hacker Store](https://www.hackerstore.nl)
+* [Kiwi Electronics](https://www.kiwi-electronics.nl)
 
 Chinese suppliers (take possible long shipping time into account):
 
@@ -52,6 +53,7 @@ Professional enzymes and peptide suppliers:
 * [Qiagen](http://www.qiagen.com)
 * [Promega](http://www.promega.com)
 * [New England Biolabs](http://www.neb.com)
+* [Antonides](https://www.antonides.com)
 
 Live cultures:
 
@@ -59,7 +61,10 @@ Live cultures:
 * [DSMZ](http://www.dsmz.de)
 * [ATCC](http://www.lgcstandards-atcc.org/)
 * [Carolina](http://www.carolina.com/)
+* [Carolina - Germany](http://www.carolina-science.com/)
 * [BCCM](http://bccm.belspo.be/)
+* [Sciento](https://www.sciento.co.uk)
+* [Lebendkulturen Helbig](https://lebendkulturen.de)
 
 ## Disposable labware
 
@@ -67,6 +72,7 @@ Live cultures:
 * [Eppendorf](http://www.eppendorf.com)
 * [GreinerBio One](http://www.greinerbioone.com)
 * [Sarstedt](http://www.sarstedt.com)
+* [Antonides](https://www.antonides.com)
 
 ## Fabbing
 
