@@ -1,21 +1,19 @@
 ---
 layout: page
-title: Class 8 - Bioinformatics
-permalink: /bha5/class/8/
+title: Class 8
+permalink: /bha6/class/8/
 ---
 
 ## Synopsys
 
-Microbes can generate a lot of data. Especially 3D data is beautiful and essential to understand. We will give enzyme analysis a try. Next, spectroscopy is a great tool for monitoring the growth and production in your bioreactor. We will make our own light source and detector setup. The class is about other analytical techniques too.
+Spectroscopy is a great tool for monitoring the growth and production in your bioreactor. We will make our own light source and detector setup. The class is about other analytical techniques too.
 
 ## Schedule
 
-* Bioinformatics [PDF] (/bha5/class/8/pdf/8.1 Bioinformatics.pdf) - [VIDEO](https://vimeo.com/260850851)
-* Guest Lecture Andrea Polli [VIDEO](https://vimeo.com/260834867)
-* Spectrometer Design [PDF](/bha5/class/8/pdf/8.2 Spectrophotometer.pdf) - [VIDEO](https://vimeo.com/260840245)
+* Lecture
 * Practicals
-  * [Iodine Clock Reaction](/bha5/class/8/iodine-clock-reaction/)
-  * Optional: PyMOL
+  * [Iodine Clock Reaction](/bha6/class/8/iodine-clock-reaction/)
+
 
 ## Devices
 
@@ -58,6 +56,6 @@ In order to take part in this class you will need the following materials:
 
 Go ahead and buy a spectrometer:
 
-* Second hand photospectrometers at [LabX](http://www.labx.com/spectrophotometer-uv-vis-fluor) 
+* Second hand photospectrometers at [LabX](http://www.labx.com/spectrophotometer-uv-vis-fluor)
 
-Back to [BHA5 Classes](/bha5/classes/)
+Back to [BHA6 Classes](/bha6/classes/)

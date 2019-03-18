@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Iodine Clock Reaction
-permalink: /bha4/class/9/iodine-clock-reaction/
+permalink: /bha6/class/9/iodine-clock-reaction/
 ---
 
 ## Materials
@@ -17,11 +17,11 @@ permalink: /bha4/class/9/iodine-clock-reaction/
 ## Method
 
 1. Put on those safety goggles
-2. Crush the Vitamin C tablet in a plastic bag 
+2. Crush the Vitamin C tablet in a plastic bag
 3. Put the powder in a 50 mL tube, label it with “Reagent A”
 4. Add 50 mL of warm water. Stir or shake for at least 30 seconds. (
 5. Transfer 5 ml of Reagent A into a new 50 mL tube, label as "Reagent B"
-6. Add 40 mL of warm water and 5 mL of the iodine. 
+6. Add 40 mL of warm water and 5 mL of the iodine.
 7. In the third 50 mL tube mix 15 mL of warm water, 15 mL of the hydrogen peroxide and 2.5 mL of the liquid starch. This is “Reagent C”
 8. Mix 25 mL of Reagent C with 25 mL of Reagent B
 9. Immediately place in a spectrometer or just watch what happens
@@ -29,4 +29,4 @@ permalink: /bha4/class/9/iodine-clock-reaction/
 
 Somewhere between a few seconds and a few minutes, the liquid will suddenly turn dark blue.
 
-Return to [BHA4 - Class 9](/bha4/class/9/)
+Return to [BHA6 - Class 9](/bha6/class/9/)
