@@ -19,7 +19,7 @@ Identify the Gene in a Sleep Disorder, exercise from [https://www.ncbi.nlm.nih.g
 2. Perform a Nucleotide Blast using the DNA sequence
 3. Perform a protein Blast using the Amino Acid sequence
 4. What gene correlates with the sleeping disorder?
-5. Is there a number in resulting hits in the databases between nucleotides and proteins? Which one would be more specific?
+5. Is there difference in the number in resulting hits in the databases between nucleotides and proteins? Which one would be more specific?
 
 ## Excercise 2: From DNA to Protein!
 
