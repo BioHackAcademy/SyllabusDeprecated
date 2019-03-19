@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Iodine Clock Reaction
-permalink: /bha6/class/9/iodine-clock-reaction/
+permalink: /bha6/class/8/iodine-clock-reaction/
 ---
 
 ## Materials
@@ -29,4 +29,4 @@ permalink: /bha6/class/9/iodine-clock-reaction/
 
 Somewhere between a few seconds and a few minutes, the liquid will suddenly turn dark blue.
 
-Return to [BHA6 - Class 9](/bha6/class/9/)
+Return to [BHA6 - Class 8](/bha6/class/8/)

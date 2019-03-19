@@ -12,6 +12,7 @@ Spectroscopy is a great tool for monitoring the growth and production in your bi
 
 * Lecture
 * Practicals
+  * [Bioinformatics](/bha6/class/8/bioinformatics/)
   * [Iodine Clock Reaction](/bha6/class/8/iodine-clock-reaction/)
 
 
