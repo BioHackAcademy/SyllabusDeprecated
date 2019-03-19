@@ -53,6 +53,6 @@ In Prof Simon E. Fisher's [Twitter thread](https://twitter.com/ProfSimonFisher/s
 
 Other interesting software in bioinformatics:
 
-* [Jalview](http://www.jalview.org) is used to align sequences. You can download them in the FASTA format, and import them in Jalview. 
+* [Jalview](http://www.jalview.org) is used to align sequences. You can download them in the FASTA format, and import them in Jalview.
 
-Return to [BHA6 - Class 9](/bha6/class/9/)
+Return to [BHA6 - Class 8](/bha6/class/8/)
