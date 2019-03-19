@@ -24,17 +24,20 @@ Identify the Gene in a Sleep Disorder, exercise from [https://www.ncbi.nlm.nih.g
 ## Excercise 2: From DNA to Protein!
 
 ### Goal:
-Learn about reading frames, from DNA to Protein!
+Learn about open reading frames, from DNA to Protein!
 
 0. Copy the sample DNA sequence from [https://www.ncbi.nlm.nih.gov/Class/NAWBIS/Modules/InfoHubs/infohubs3.html](https://www.ncbi.nlm.nih.gov/Class/NAWBIS/Modules/InfoHubs/infohubs3.html)
 1. Go to Blast: what is the gene name associated?
 2. Google: what is the clinical relevance of this gene (i.e. in health care) ?
-3. What is the amino acid sequence in humans? Copy and save it somehwere
+3. Do a blastx, find the amino acid sequence, and download it in the FASTA format.
 4. Download the FASTA format of the gene.
 5. Every nucleotide sequence can be read in 6 reading frames: every 3 nucleotides can be translated in 1 amino acid, and DNA can be read 5' --> 3' or 3' --> 5'. Parts that start with **Met** and and with **Stop** are translated into amino acids.
 We want to find out: What is the reading frame for this protein?
 To find out, go to Expasy: [https://web.expasy.org/translate/](https://web.expasy.org/translate/)
-6. Type in the DNA sequence from the FASTA file, and find out: what is the reading frame for this protein?
+6. Type in the DNA sequence from the FASTA file
+7. Take notice: "Open reading frames are highlighted in red. Please select one of the following frames - in the next page, you will be able to select your initiator and retrieve your amino acid sequence:" The protein code you saved earlier is one of the ORFs.
+8. and find out: what is the reading frame for this protein?
+9. Take note in the Translate tool: "Open reading frames are highlighted in red. Please select one of the "Methionine" or one of the highlighted residues following a Stop codon (or the beginning of the sequence)."
 
 ## Excercise 3: Learn about genes!
 
@@ -42,7 +45,7 @@ To find out, go to Expasy: [https://web.expasy.org/translate/](https://web.expas
 
 How do you find out information about genes online?
 
-In Prof Simon E. Fisher's [Twitter thread](https://twitter.com/ProfSimonFisher/status/1105121806921416707) he talks the about the ORIGEN Superhero consumer DNA test, writing "They claim their FOXP2 test can reveal whether "you have the mind of a super-genius". [Bangs head repeatedly against desk while sobbing.]"
+In Prof Simon E. Fisher's [Twitter thread](https://twitter.com/ProfSimonFisher/status/1105121806921416707) he talks the about the ORIG3N Superhero consumer DNA test, writing "They claim their FOXP2 test can reveal whether "you have the mind of a super-genius". [Bangs head repeatedly against desk while sobbing.]"
 
 0. Which genes are included in the Superhero test at [https://shop.orig3n.com/products/superhero](https://shop.orig3n.com/products/superhero) ?
 1. Go to [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov)
