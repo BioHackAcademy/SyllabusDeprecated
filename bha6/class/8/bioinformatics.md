@@ -36,8 +36,23 @@ We want to find out: What is the reading frame for this protein?
 To find out, go to Expasy: [https://web.expasy.org/translate/](https://web.expasy.org/translate/)
 6. Type in the DNA sequence from the FASTA file, and find out: what is the reading frame for this protein?
 
+## Excercise 3: Learn about genes!
+
+### Goal:
+
+How do you find out information about genes online?
+
+In Prof Simon E. Fisher's [Twitter thread](https://twitter.com/ProfSimonFisher/status/1105121806921416707) he talks the about the ORIGEN Superhero consumer DNA test, writing "They claim their FOXP2 test can reveal whether "you have the mind of a super-genius". [Bangs head repeatedly against desk while sobbing.]"
+
+0. Which genes are included in the Superhero test at [https://shop.orig3n.com/products/superhero](https://shop.orig3n.com/products/superhero) ?
+1. Go to [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov)
+2. What can you learn about the genes? Can you find evidence for superhuman ability in the FOXP2 gene? What about the other genes mentioned in the Superhero test?
+
+
 ## Other links
 
-* [Jalview](http://www.jalview.org) is used to align sequences
+Other interesting software in bioinformatics:
+
+* [Jalview](http://www.jalview.org) is used to align sequences. You can download them in the FASTA format, and import them in Jalview. 
 
 Return to [BHA6 - Class 9](/bha6/class/9/)
