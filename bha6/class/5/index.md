@@ -10,8 +10,8 @@ This week we will start working with DNA, the fundamental building block of life
 
 ## Schedule
 
-* Genetics - [PDF](/bha6/class/5/5.1 Genetics.pdf) [VIDEO 1](https://vimeo.com/320448518) - [VIDEO 2](https://vimeo.com/320448866) - [VIDEO 3](https://vimeo.com/320449106)
-* Thermocycler design - [PDF](/bha6/class/5/5.2 Thermocycler Design.pdf) [VIDEO](https://vimeo.com/320453706)
+* Genetics - [PDF](/bha6/class/5/pdf/5.1 Genetics.pdf) [VIDEO 1](https://vimeo.com/320448518) - [VIDEO 2](https://vimeo.com/320448866) - [VIDEO 3](https://vimeo.com/320449106)
+* Thermocycler design - [PDF](/bha6/class/5/pdf/5.2 Thermocycler Design.pdf) [VIDEO](https://vimeo.com/320453706)
 * Guest Lecture Georg Tremmel (BCL), live from BioClub Tokyo - [VIDEO](https://vimeo.com/320453111)
 
 * Practicals

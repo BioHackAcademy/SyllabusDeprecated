@@ -12,8 +12,8 @@ We’ll also try to isolate our first biomaterial using centrifugation.
 
 ## Schedule
 
-* Bioinformatics - [PDF](/bha6/class/7/pdf/7.1 Bioinformatics.pdf/) - [VIDEO 1](https://vimeo.com/323427214) - [VIDEO 2](https://vimeo.com/323427631)
-* Centrifuge design - [PDF](/bha6/class/7/pdf/7.2 Centrifuge design.pdf/) - [VIDEO](https://vimeo.com/323427966)
+* Bioinformatics - [PDF](/bha6/class/7/pdf/7.1-Bioinformatics.pdf) - [VIDEO 1](https://vimeo.com/323427214) - [VIDEO 2](https://vimeo.com/323427631)
+* Centrifuge design - [PDF](/bha6/class/7/pdf/7.2-Centrifuge-design.pdf) - [VIDEO](https://vimeo.com/323427966)
 * Practicals
   * Peer 2 Peer reviewing:
   > Give constructive Feedback on the personal project of at least 5 fellow BHA participants, based on their Midterm Presentation, as well as documentation sites. Slides. Reviewing takes place on the [Forum](https://github.com/BioHackAcademy/Forum/issues/)

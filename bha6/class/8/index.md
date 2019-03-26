@@ -6,11 +6,24 @@ permalink: /bha6/class/8/
 
 ## Synopsys
 
+This week we have a couple of Guest Lectures: Sarah Adkins & Julian Stadon!
+Next to that, there's an introduction into specrometry.
 Spectroscopy is a great tool for monitoring the growth and production in your bioreactor. We will make our own light source and detector setup. The class is about other analytical techniques too.
+
+## Agar Art Challenge
+
+Speaker Sarah Adkins challenges all BioHack Academy participants to send in designs for agar art.
+*  Send in your agar art design on the [Forum](https://github.com/BioHackAcademy/Forum/issues/35)
+*  Hear more about her request here in the [VIDEO](https://vimeo.com/325723286)
+
 
 ## Schedule
 
-* Lecture
+* Lectures
+  * Guest Lecture Sarah Adkins (PhD Candidate and National Science Foundation Graduate Research Fellow at the University of Alabama at Birmingham (USA)) - [VIDEO](https://vimeo.com/325723286)
+  * Guest Lecture Julian Stadon - [VIDEO](https://vimeo.com/325463555)
+  * Spectrofotometry and Spectrofotometer Design - [PDF](bha6/class/8/pdf/Spectrometer design.pdf/) - [VIDEO](https://vimeo.com/325467091)
+
 * Practicals
   * [Bioinformatics](/bha6/class/8/bioinformatics/)
   * [Iodine Clock Reaction](/bha6/class/8/iodine-clock-reaction/)
