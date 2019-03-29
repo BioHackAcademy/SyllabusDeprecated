@@ -9,10 +9,11 @@ This week is all about finishing your project in sight of the BioHack Academy gr
 
 ## Schedule
 
-* How to continue after the BioHack Academy - [PDF](bha6/class/9/pdf/9.1 - How to Continue after the BioHack Academy.pdf)
-* Biohacking and innovation - [PDF](bha6/class/9/pdf/9.2 Biohacking and innovation.pdf)
-* Pumps design - [PDF](bha6/class/9/pdf/9.3 Pumps design.pdf)
-* Biohacking and innovation - [PDF](bha6/class/9/pdf/9.4 Bioreactor.pdf)
+Lectures:
+* How to continue after the BioHack Academy - [PDF](bha6/class/9/pdf/9.1 - How to Continue after the BioHack Academy.pdf) - [VIDEO](https://vimeo.com/326836638)
+* Biohacking and innovation - [PDF](bha6/class/9/pdf/9.2 Biohacking and innovation.pdf) - [VIDEO](https://vimeo.com/326837565)
+* Pumps design - [PDF](bha6/class/9/pdf/9.3 Pumps design.pdf) - [VIDEO](https://vimeo.com/326838186)
+* Bioreactor - [PDF](bha6/class/9/pdf/9.4 Bioreactor.pdf) - [VIDEO](https://vimeo.com/326838574)
 
 ## Devices
 
