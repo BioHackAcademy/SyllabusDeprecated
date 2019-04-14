@@ -18,6 +18,7 @@ Please send the link to your documentation site as soon as it is setup to [rolan
   * [Daehan Won](https://gsk1040.github.io)
 * [BioClub Tokyo - Japan](http://www.bioclub.org)
   * [Shinichiro Murakami](https://materdd.github.io)
+  * [Shin Aoyama](https://thinao.github.io)
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
   * [Adele Ardent](https://AdeleArdent.github.io/)
   * [Miranda Chun](https://mirandarae.github.io/mirandachun/)
