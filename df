@@ -1,0 +1,293 @@
+[33mcommit 30471faa8bf537eeb97e530d9e58e1213cff1566[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cfee9d1 d4751ce
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Jan 25 23:19:46 2019 +0100
+
+    Merge branch 'master' of https://github.com/BioHackAcademy/BioHackAcademy.github.io
+    
+    merging local and remote versions
+
+[33mcommit cfee9d1f9d17c1403ab0b4d103c3d828a787d293[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Jan 25 23:18:29 2019 +0100
+
+    fixed broken link in week 2
+
+[33mcommit d4751ce5f57966392b159cd37413670c69825128[m
+Author: ro91 <rvdierendonck@gmail.com>
+Date:   Thu Jan 24 14:34:47 2019 +0100
+
+    test SSH key
+
+[33mcommit bf0b0dd74da5e8635ca0049ccc846632bdfc6ca4[m
+Author: Roland van Dierendonck <ro91>
+Date:   Wed Nov 7 12:37:06 2018 +0100
+
+    session 2 KEA updated
+
+[33mcommit 7e8808a6b606be60772485376bfedda3ec35d88e[m
+Author: Roland van Dierendonck <ro91>
+Date:   Thu Nov 1 12:58:11 2018 +0100
+
+    edited KEA
+
+[33mcommit f8a0daa582f5b3d278716ea59cca93413d6db741[m
+Author: Roland van Dierendonck <ro91>
+Date:   Thu Nov 1 09:34:08 2018 +0100
+
+    added BCCM to suppliers list
+
+[33mcommit 55be81c18781e47a7a0429e80c033d57fd67e7bb[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 22 15:08:52 2018 +0200
+
+    added lecture slides
+
+[33mcommit 646d2be0663e9da8a4dc4d2206cdec4eadbdea50[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 22 12:47:16 2018 +0200
+
+    added text to check update
+
+[33mcommit c6c295ad7dd29681e8c7c244098e5e185503263d[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 22 12:38:54 2018 +0200
+
+    changed list in week 10 bha5
+
+[33mcommit 5bab200fe176ed995a7f598a9fad8fc2377cf2d6[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 22 12:36:51 2018 +0200
+
+    changed kea md
+
+[33mcommit 549cb71039a554a0556f70f282c3ead591898cbc[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 22 12:34:34 2018 +0200
+
+    added KEA module in BHA5 folder
+
+[33mcommit 11ba814d400eb164551d3c2ad02a864c7c36c373[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 22 12:17:26 2018 +0200
+
+    KEA module
+
+[33mcommit cda367e9ed20fdc11a74cd3d2d8b9075d666db7e[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 8 17:02:30 2018 +0200
+
+    changed final page BHA5, made table of list
+
+[33mcommit fb53d59aa43b8d032950e892f5d296cb027a93ff[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 8 16:54:48 2018 +0200
+
+    updated BHA5 final presentations page
+
+[33mcommit c6877df8396097d8950c34524b8d1965a903668f[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 8 16:31:00 2018 +0200
+
+    updated BHA5 final presentations page
+
+[33mcommit b8300376443521b451cbcadef184b8b41d6a1b4b[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 8 16:22:51 2018 +0200
+
+    updated BHA5 final presentations page
+
+[33mcommit 435e6ea4d2d7b6ff771c2cc862b2625d69f3d642[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Oct 8 15:38:02 2018 +0200
+
+    modifying BHA5 for archival
+
+[33mcommit 5f1866850ab811a1d715178f64bcf841ca37cd35[m
+Author: Roland van Dierendonck <ro91>
+Date:   Tue Sep 4 16:43:13 2018 +0200
+
+    build failure, fix site-intro
+
+[33mcommit 1a93b618e3ad3c05741eae87ec29e463138ca8ed[m
+Author: Roland van Dierendonck <ro91>
+Date:   Tue Sep 4 16:06:53 2018 +0200
+
+    add BHA6 information on site-intro
+
+[33mcommit 8012ad2079a5f91815ef724bf3134fb0f2b4242a[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Apr 6 17:02:22 2018 +0200
+
+    added ! to check syncing
+
+[33mcommit f08cb240aeeb4b931cd1f9fa51a9af3728675688[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Apr 2 13:39:23 2018 +0200
+
+    edited lecture 9, 10
+
+[33mcommit 5c941ca93f6c1f6a1a0ccd1c8aacebfd8202c699[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Mar 26 00:58:22 2018 +0200
+
+    update Class 9
+
+[33mcommit 591996eab1848b2d072b51211a6b9674bb927420[m
+Author: Roland van Dierendonck <ro91>
+Date:   Tue Mar 20 13:14:28 2018 +0100
+
+    edit video link
+
+[33mcommit 4e4b45f4d30e640cbb3fbdf5effc567f042461db[m
+Author: Roland van Dierendonck <ro91>
+Date:   Tue Mar 20 12:27:22 2018 +0100
+
+    added videos and pdfs of class 8, changed site-intro with list
+
+[33mcommit 141ab4e60f1a0bdedce920fbb41a2a0595c99571[m
+Author: Roland van Dierendonck <ro91>
+Date:   Sun Mar 18 23:15:18 2018 +0100
+
+    modded week 8
+
+[33mcommit 3ef5c6a94df51d1127b5219a00a412dd3ee64fe0[m
+Author: Roland van Dierendonck <ro91>
+Date:   Tue Mar 13 12:56:49 2018 +0100
+
+    new video link
+
+[33mcommit 75adb70aeaed125ed300c80f60033dc95b173ab4[m
+Author: Roland van Dierendonck <ro91>
+Date:   Tue Mar 13 11:40:45 2018 +0100
+
+    added PDFs and video links lecture 7
+
+[33mcommit 62c848861fb0ee1801f7467963ad686b6830dee9[m
+Author: Roland van Dierendonck <ro91>
+Date:   Sun Mar 11 15:25:25 2018 +0100
+
+    modified class5 video link
+
+[33mcommit 9dcf8d2b3b41e4f849e072253437800f5f939bea[m
+Author: Roland van Dierendonck <ro91>
+Date:   Sun Mar 11 15:22:38 2018 +0100
+
+    mystery meat protocol
+
+[33mcommit e4ec29fcdf188435d5011af6f5bf65c0bb4fc553[m
+Author: Roland van Dierendonck <ro91>
+Date:   Tue Mar 6 13:44:30 2018 +0100
+
+    videos midterm presentations
+
+[33mcommit a8deb13899675f5a171df04f2ecc883fe385e541[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Mar 5 17:26:30 2018 +0100
+
+    participants page
+
+[33mcommit 530fe7efa9464e1a06afa4ff0ae115a2cc0f1213[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Mar 2 18:02:52 2018 +0100
+
+    changed Open Lab to Documentation
+
+[33mcommit 1059944018e698648d74b218c6c297d0677aa215[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Mar 2 17:56:18 2018 +0100
+
+    edited class table, class6, class7
+
+[33mcommit 0ed666f8b0865b46437dfd4c69bd4a78c9ee0932[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Mar 2 12:32:40 2018 +0100
+
+    participants markdown changed
+
+[33mcommit efd21ffc63c75054871ac1ed4f6313306c05d489[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Mar 2 12:02:38 2018 +0100
+
+    lecture 5 videos added
+
+[33mcommit 4a79e13a717225b46beba462503abb9e0c23260b[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Mar 2 12:00:12 2018 +0100
+
+    change cultivation media
+
+[33mcommit 871eef589e8a0ccff7ae722650e9e0aa1874fba2[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Mar 2 11:58:47 2018 +0100
+
+    added participants
+
+[33mcommit 2183c600fcb8b17facb91094824c12714e96a6f0[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Feb 26 19:16:39 2018 +0100
+
+    Lecture 5 PDFs
+
+[33mcommit 4b9d88aaabebfe246f0c89c54113ec67f7fb8bb4[m
+Author: Roland van Dierendonck <ro91>
+Date:   Sun Feb 25 21:15:45 2018 +0100
+
+    bha class5
+
+[33mcommit adc0718014ede0002eea0a8f2155f6c8af65cf71[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Feb 23 17:08:37 2018 +0100
+
+    videos lecture 4
+
+[33mcommit 6417bcc05f0adaa23e3bfcbf807df4c9876042c1[m
+Author: Roland van Dierendonck <ro91>
+Date:   Mon Feb 19 18:23:30 2018 +0100
+
+    added class 4 PDFs
+
+[33mcommit 77e946da2c49f8d19a5de3ca11c661cc0787cfa1[m
+Author: Roland van Dierendonck <ro91>
+Date:   Sun Feb 18 20:15:40 2018 +0100
+
+    ready week 4 page
+
+[33mcommit 33e8df78368b93e096540a7372dc3abb993c2182[m
+Merge: c052733 0e181ae
+Author: Roland van Dierendonck <ro91>
+Date:   Sun Feb 18 20:10:37 2018 +0100
+
+    Merge branch 'master' of https://github.com/BioHackAcademy/BioHackAcademy.github.io
+
+[33mcommit c05273395847c2eef26ae39a4af8831ce8669297[m
+Author: Roland van Dierendonck <ro91>
+Date:   Sun Feb 18 20:08:47 2018 +0100
+
+    BHA5 week 3 pdfs + vimeo links
+
+[33mcommit 0e181ae2e53bd24172506b3f22e760c1a6e710a4[m
+Author: Xiamyra <xiamyra@admins-MacBook-Air.local>
+Date:   Tue Feb 13 16:08:33 2018 +0100
+
+    updating syllabus
+
+[33mcommit ca8c9ba5e4a831478ec90f2d46ae8f81767af32e[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Feb 9 18:39:03 2018 +0100
+
+    edited permalink
+
+[33mcommit a63952155e5eabf912318281fe37a911dd7790cd[m
+Author: Roland van Dierendonck <ro91>
+Date:   Fri Feb 9 18:22:22 2018 +0100
+
+    BHA5 week 3 page
+
+[33mcommit 9b30a3cbd9661c93398ea51cdba1779495d346b7[m
+Author: Roland van Dierendonck <ro91>
+Date:   Tue Feb 6 11:25:45 2018 +0100
+
+    added videos lecture 2
+
+[33mcommit 
