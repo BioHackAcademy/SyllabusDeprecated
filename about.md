@@ -6,12 +6,12 @@ permalink: /about/
 
 Biohack Academy is an education program of Waag Society Amsterdam. Held for the first time in the Spring of 2015. The course is fully open source and distributed through partner labs around the globe. 
 
-The team behind the first edition consists of:
+The team behind the first edition consisted of:
 
 * Roland van Dierendonck (programme coordinator)
 * Xiamyra Daal (programme coordinator)
 * Lucas Evers (bio art & design expert)
-* Emma Paresci (hardware expert)
+* Emma Pareschi (hardware expert)
 
 
 
