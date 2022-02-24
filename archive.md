@@ -11,3 +11,4 @@ These are the links to syllabi of the previous BioHack Academies:
 * [BHA3](/bha3/)
 * [BHA4](/bha4/)
 * [BHA5](/bha5/)
+* [BHA6](/bha6/)
