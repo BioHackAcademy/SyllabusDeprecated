@@ -13,7 +13,14 @@ Here you may find [the instructions to create your own Github page](https://gith
 Please send the link to your documentation site as soon as it is setup to [maarten@waag.org](mailto:maarten@waag.org).
 
 Name - Final Project - Documentation site - final presentation video
-* [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
+* [STEAM New Mexico](https://finearts.unm.edu/steam-nm/)
+  * Adejumoke Adefeso
+  * Ashley Arnold
+  * Blayne Greiner
+  * Joanne Kuestner
+  * Brenden Lockwood
+  * Adrienne Swindle
+  * Drew Trujillo
 * [BioClub Tokyo - Japan](http://www.bioclub.org)
 * [Waag's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-6)
   * Maarten Smith - To be decided - [documentation site](https://ivoormeeuw.github.io) - [video](https://vimeo.com/)
