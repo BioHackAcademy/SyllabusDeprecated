@@ -66,4 +66,6 @@ permalink: /bha7/classes/
 | **Week 9: Personal Project**   | No lectures                                      |                                 |           |        |
 |                                |                                                  |                                 |           |        |
 | **Week 10: Presentations**     | Final Presenatations                             | participants                    | link      | slides |
+|                                |                                                  |                                 |           |        |
+|                                |                                                  |                                 |           |        |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|--------|
