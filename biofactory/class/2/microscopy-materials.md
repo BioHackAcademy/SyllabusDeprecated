@@ -4,7 +4,7 @@ title: Microscopy Practical Materials
 permalink: /biofactory/class/2-microscope/microscopy-materials/
 ---
 
-When following the Biohack Academy, all these materials are provided for by Waag Society. This list is just meant for future reference.
+When following the Biohack Academy, all these materials are provided for by Waag . This list is just meant for future reference.
 
 ## Compounds
 

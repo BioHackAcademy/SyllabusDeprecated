@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Biohack Academy is an education program of Waag Society Amsterdam. Held for the first time in the Spring of 2015. The course is fully open source and distributed through partner labs around the globe. 
+Biohack Academy is an education program of Waag Amsterdam. Held for the first time in the Spring of 2015. The course is fully open source and distributed through partner labs around the globe. 
 
 The team behind the first edition consisted of:
 
@@ -29,7 +29,7 @@ Previous editions of the BioHack Academy have been made possible by:
 
 More information on [waag.org/biohackacademy](http://www.waag.org/biohackacademy)
 
-Interested in joining the BHA2019? Soon you can sign up for the Biohack Academy 2019![Waag Society Open Wetlab]({{ site.baseurl }}/biofactory/graphics/WS_openwetlab_logo.png)
+Interested in joining the BHA? Soon you can sign up for the next edition![Waag Open Wetlab]({{ site.baseurl }}/biofactory/graphics/WS_openwetlab_logo.png)
 
 This site was made using the base Jekyll theme. You can find out more info about customizing this Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 

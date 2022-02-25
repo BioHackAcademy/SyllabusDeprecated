@@ -6,7 +6,7 @@ permalink: /biofactory/annex/culture-collection/
 
 ## Culture Collection
 
-The following cultures are available in the Waag Society's Open Wetlab:
+The following cultures are available in the Waag's Open Wetlab:
 
 {% for page in site.pages %}
 {% if page.url contains 'biofactory' %}

@@ -6,9 +6,9 @@ permalink: /bha3/participants/documentation/
 
 ## Documentation
 
-Please send the link to your documentation site as soon as it is setup to [pieter@waag.org](mailto:pieter@waag.org). I will add you to the list.
+Please send the link to your documentation site as soon as it is setup to [lucas@waag.org](mailto:lucas@waag.org). I will add you to the list.
 
-* [Waag Society](http://www.waag.org) - Netherlands
+* [Waag](http://www.waag.org) - Netherlands
   * [Thomas](http://thomashoogewerf.nl/Biohack/biohack.html)
   * [Jessica](http://jesbeirbiohacks.github.io/)
   * [Marijan](http://marijan1.github.io)

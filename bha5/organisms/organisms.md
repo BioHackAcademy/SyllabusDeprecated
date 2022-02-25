@@ -6,7 +6,7 @@ permalink: /bha5/organisms/
 
 ## Organisms
 
-The following cultures are available in the Waag Society's Open Wetlab. In case you are following the Academy in one of the partner labs, check the availability with your coordinator:
+The following cultures are available in the Waag's Open Wetlab. In case you are following the Academy in one of the partner labs, check the availability with your coordinator:
 
 {% for page in site.pages %}
 {% if page.categories contains 'culture-collection' %}

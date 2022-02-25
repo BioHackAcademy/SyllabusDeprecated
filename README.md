@@ -1,2 +1,2 @@
 # BioHackAcademy.github.io
-Waag Society's BioHack Academy Syllabus 
+Waag's BioHack Academy Syllabus 

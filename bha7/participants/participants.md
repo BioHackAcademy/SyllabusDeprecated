@@ -15,7 +15,7 @@ Please send the link to your documentation site as soon as it is setup to [maart
 Name - Final Project - Documentation site - final presentation video
 * [The Social Media Workgroup, University of New Mexico - USA](http://www.thesocialmediaworkgroup.com)
 * [BioClub Tokyo - Japan](http://www.bioclub.org)
-* [Waag Society's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-6)
+* [Waag's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-6)
   * Maarten Smith - To be decided - [documentation site](https://ivoormeeuw.github.io) - [video](https://vimeo.com/)
   * Shirley Niemans
   * Tim van Elferen

@@ -13,7 +13,7 @@ This practical gives you insight in how a microscope works and how you can opera
 Let's start by taking a closer look at the parts of a microscope.
 
 ![Microscope Parts - CC BY SA 4.0](/bha6/class/4/microscope-parts.svg)
-*Microscope Parts - Published by Waag Society under Creative Commons BY SA 4.0 license*
+*Microscope Parts - Published by Waag under Creative Commons BY SA 4.0 license*
 
 The final magnification of a microscope is equal to the multiple of the magnification of the lens and the objective. In the Open Wetlab microscopes the lens magnifies 10x and there are objectives for 4x, 10x, 40x and 100x magnification.
 
