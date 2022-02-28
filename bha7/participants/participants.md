@@ -22,6 +22,13 @@ Name - Final Project - Documentation site - final presentation video
   * Adrienne Swindle
   * Drew Trujillo
 * [BioClub Tokyo - Japan](http://www.bioclub.org)
+  * Misa Haneda
+  * Shiho Hasegawa
+  * Ai Hirose
+  * Yutaro Kawada
+  * Mariko Sakuragi
+  * Youske Tsuchiya
+  * Juppo Yokogawa
 * [Waag's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-6)
   * Maarten Smith - To be decided - [documentation site](https://ivoormeeuw.github.io) - [video](https://vimeo.com/)
   * Shirley Niemans
