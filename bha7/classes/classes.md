@@ -8,8 +8,8 @@ permalink: /bha7/classes/
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|--------|
 | Date                           | Title                                            | Speaker                         | Recording | Slides |
 | **Week 1: Introduction**       | Lecture: what is biohacking                      | Lucas Evers                     | link      | slides |
-|                                | Workshop: How to document your experiments       | Kas Houthuijs and Maarten Smith | link      | <a href="/bha7/classes/slides/28022022_BHA7_2.1_Documenting your progress.pdf" target="_blank">slides</a> |
-|                                | Guest Lecture: Biohacking as a creative practice | Ionat Zurr                      | link      | slides |
+| Assignment: setup your blog.   | Workshop: How to document your experiments       | Kas Houthuijs and Maarten Smith | link      | <a href="/bha7/classes/slides/28022022_BHA7_2.1_Documenting your progress.pdf" target="_blank">slides</a> |
+| email your page to kas@waag.org| Guest Lecture: Biohacking as a creative practice | Ionat Zurr                      | link      | slides |
 |                                | Lecture: Lab- and bio-safety                     | Kas Houthuijs and Per Staugaard | link      | slides |
 |                                |                                                  |                                 |           |        |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|--------|
