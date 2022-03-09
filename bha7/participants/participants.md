@@ -26,16 +26,16 @@ Name - Final Project - Documentation site - final presentation video
   * Shiho Hasegawa
   * Ai Hirose
   * Yutaro Kawada
-  * Mariko Sakuragi
+  * Mariko Sakuragi - [documentation site](https://marikosakuragi.github.io/BHA-2022/)
   * Youske Tsuchiya
-  * Juppo Yokogawa
+  * Juppo Yokogawa - [documentation site](https://juppoyokokawa.github.io/bha22/)
 * [Waag's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-6)
-  * Maarten Smith - To be decided - [documentation site](https://ivoormeeuw.github.io) - [video](https://vimeo.com/)
+  * Maarten Smith - [documentation site](https://ivoormeeuw.github.io) - [video](https://vimeo.com/)
   * Shirley Niemans
-  * Tim van Elferen
-  * Mary Farwy
-  * Michel Barchini
-  * Lisa Smith
-  * Lorena Solís Bravo
-  * Karenina van den Crommenacker
+  * Tim van Elferen - [Tim van Elferen]https://revolute-nl.github.io/about/
+  * Mary Farwy - [documentation site](https://marifarwi.github.io/)
+  * Michel Barchini - [documentation site](https://michel-ba.github.io/)
+  * Lisa Smith - 
+  * Lorena Solís Bravo - 
+  * Karenina van den Crommenacker - [documentation site](https://kareninablue.github.io/)
   * Artem Tyurin
