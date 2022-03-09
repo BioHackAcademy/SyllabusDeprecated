@@ -32,7 +32,7 @@ Name - Final Project - Documentation site - final presentation video
 * [Waag's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-6)
   * Maarten Smith - [documentation site](https://ivoormeeuw.github.io) - [video](https://vimeo.com/)
   * Shirley Niemans
-  * Tim van Elferen - [Tim van Elferen](https://revolute-nl.github.io/about/)
+  * Tim van Elferen - [documentation site](https://revolute-nl.github.io/about/)
   * Mary Farwy - [documentation site](https://marifarwi.github.io/)
   * Michel Barchini - [documentation site](https://michel-ba.github.io/)
   * Lisa Smith - 
