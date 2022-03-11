@@ -14,11 +14,11 @@ permalink: /bha7/classes/
 |                                | Lecture: Lab- and bio-safety                     | Kas Houthuijs and Per Staugaard | <a href="https://vimeo.com/684236579" target="_blank">link</a> |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
-| **Week 2: Deconstructing the Lab** | Lecture: Hardware Introduction               | Kas Houthuijs and Maarten Smith | link      |
-|                                | Discussion: What is a lab?                       | Kas Houthuijs and Maarten Smith | link      |
-|                                | Guest lecture: acking hardware                   | Paul Vanouse                    | link      |
-|                                | Workshop: deconstructing hardware                | Maarten Smith                   | link      |
-|                                | Workshop: constructing Gaudi hardware            | Maarten Smith                   | link      |
+| **Week 2: Deconstructing the Lab** | Lecture: Hardware Introduction               | Kas Houthuijs and Maarten Smith | <a href="https://vimeo.com/groups/773683/videos/685515580" target="_blank">link</a> |
+|                                | Discussion: What is a lab?                       | Kas Houthuijs and Maarten Smith | <a href="https://vimeo.com/groups/773683/videos/685515937" target="_blank">link</a> |
+|                                | Guest lecture: Reenactments                      | Paul Vanouse                    | <a href="https://vimeo.com/groups/773683/videos/686186321" target="_blank">link</a> |
+|                                | Workshop: deconstructing a lab photospectrometer | Maarten Smith                   | <a href="https://vimeo.com/groups/773683/videos/686185449" target="_blank">link</a> |
+|                                | Workshop: constructing a USB spectrometer        | Maarten Smith                   |           |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
 | **Week 3: Making the Lab**     | Guest Lecture: DIY lab building                  | Urs Gaudenz                     | link      |
