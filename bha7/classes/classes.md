@@ -9,7 +9,7 @@ permalink: /bha7/classes/
 | *Date*                         | *Title*                                          | *Speaker*                       |*Recording*| 
 | **Week 1: Introduction**       | Short introduction                               |                                 | <a href="https://vimeo.com/684228968" target="_blank">link</a> |
 | Assignment: setup your blog.   | Lecture: What is biohacking?                     | Lucas Evers                     | <a href="https://vimeo.com/684229308" target="_blank">link</a> |
-| email your page to kas@waag.org| Workshop: How to document your experiments       | Kas Houthuijs and Maarten Smith | <a href="/bha7/classes/slides/28022022_BHA7_2.1_Documenting your progress.pdf" target="_blank">slides</a> |
+| email your page to kas@waag.org| Workshop: How to document your experiments       | Kas Houthuijs and Maarten Smith | <a href="https://vimeo.com/686334852" target="_blank">link</a> |
 | 	                             | Guest Lecture: Biohacking as a creative practice | Ionat Zurr                      | <a href="https://vimeo.com/684229858" target="_blank">link</a> |
 |                                | Lecture: Lab- and bio-safety                     | Kas Houthuijs and Per Staugaard | <a href="https://vimeo.com/684236579" target="_blank">link</a> |
 |                                |                                                  |                                 |           |
@@ -22,9 +22,9 @@ permalink: /bha7/classes/
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
 | **Week 3: Making the Lab**     | Guest Lecture: DIY lab building                  | Urs Gaudenz                     | link      |
-|                                | Lecture: Fablab Introduction                     | Kas Houthuijs and Maarten Smith | link      |
-|                                | Workshop: Open source digital design             | Maarten Smith                   | link      |
-|                                | Workshop: open source making                     | Kas Houthuijs and Maarten Smith | link      |
+| Assignment: adapt and build a  | Lecture: Fablab Introduction                     | Kas Houthuijs and Maarten Smith | link      |
+| sterile hood, magnetic stirrer | Workshop: Open source digital design             | Maarten Smith                   | link      |
+| and incubator (optional)       | Workshop: open source making                     | Kas Houthuijs and Maarten Smith | link      |
 |                                | Workshop: open source making                     | Kas Houthuijs and Maarten Smith | link      |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
