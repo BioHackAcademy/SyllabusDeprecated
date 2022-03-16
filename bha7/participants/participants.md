@@ -31,7 +31,7 @@ Name - Final Project - Documentation site - final presentation video
   * Juppo Yokogawa - [documentation site](https://juppoyokokawa.github.io/bha22/)
 * [Waag's Open Wetlab - Amsterdam](https://www.waag.org/nl/event/biohack-academy-6)
   * Maarten Smith - [documentation site](https://ivoormeeuw.github.io)
-  * Shirley Niemans - [doccumentation site](https://shrls-hku.github.io/about/)
+  * Shirley Niemans - [documentation site](https://shrls-hku.github.io/about/)
   * Tim van Elferen - [documentation site](https://revolute-nl.github.io/about/)
   * Mary Farwy - [documentation site](https://marifarwi.github.io/)
   * Michel Barchini - [documentation site](https://michel-ba.github.io/)
