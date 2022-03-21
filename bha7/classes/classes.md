@@ -24,8 +24,8 @@ permalink: /bha7/classes/
 | **Week 3: Making the Lab**     | Guest Lecture: DIY lab building                  | Urs Gaudenz                     | <a href="https://vimeo.com/688066043" target="_blank">link</a> |
 | Assignment: adapt and build a  | Lecture: Fablab Introduction                     | Kas Houthuijs and Maarten Smith | <a href="https://vimeo.com/688065969" target="_blank">link</a> |
 | sterile hood, magnetic stirrer | Workshop: Open source digital design             | Maarten Smith                   | <a href="https://vimeo.com/688065475" target="_blank">link</a>      |
-| and incubator (optional)       | Workshop: open source making                     | Kas Houthuijs and Maarten Smith | link      |
-|                                | Workshop: open source making                     | Kas Houthuijs and Maarten Smith | link      |
+| and incubator (optional)       | Workshop: open source making                     | Kas Houthuijs and Maarten Smith |           |
+|                                | Workshop: open source making                     | Kas Houthuijs and Maarten Smith |           |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
 | **Week 4: Growing Materials**  | Guest Lecture: Bioartistic Research: Lichen      | Adriana Knouf                   | link      |
