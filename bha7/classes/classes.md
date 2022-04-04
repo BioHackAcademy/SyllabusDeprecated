@@ -23,29 +23,29 @@ permalink: /bha7/classes/
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
 | **Week 3: Making the Lab**     | Guest Lecture: DIY lab building                  | Urs Gaudenz                     | <a href="https://vimeo.com/688066043" target="_blank">link</a> |
 | Assignment: adapt and build a  | Lecture: Fablab Introduction                     | Kas Houthuijs and Maarten Smith | <a href="https://vimeo.com/688065969" target="_blank">link</a> |
-| sterile hood, magnetic stirrer | Workshop: Open source digital design             | Maarten Smith                   | <a href="https://vimeo.com/688065475" target="_blank">link</a>      |
+| sterile hood, magnetic stirrer | Workshop: Open source digital design             | Maarten Smith                   | <a href="https://vimeo.com/688065475" target="_blank">link</a> |
 | and incubator (optional)       | Workshop: open source making                     | Kas Houthuijs and Maarten Smith |           |
 |                                | Workshop: open source making                     | Kas Houthuijs and Maarten Smith |           |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
-| **Week 4: Growing Materials**  | Guest Lecture: Bioartistic Research: Lichen      | Adriana Knouf                   | link      |
-|                                | Lecture: Biology and lab practices               | Kas Houthuijs                   | link      |
-|                                | Lecture: Biosafety in the lab                    | Kas Houthuijs and Per Staugaard | link      |
-|                                | Guest Lecture: Biomaterials                      | Margherita Soldati              | link      |
-|                                | Workshop Biomaterials                            | Lorena Trebbi                   | link      |
+| **Week 4: Growing Materials**  | Guest Lecture: Bioartistic Research: Lichen      | Adriana Knouf                   | <a href="https://vimeo.com/690651950" target="_blank">link</a> |
+|                                | Lecture: Biology and lab practices               | Kas Houthuijs                   | <a href="https://vimeo.com/691017090" target="_blank">link</a> |
+|                                | Lecture: Biosafety in the lab                    | Kas Houthuijs and Per Staugaard | <a href="https://vimeo.com/690659786" target="_blank">link</a> |
+|                                | Guest Lecture: Biomaterials                      | Margherita Soldati              | <a href="https://vimeo.com/691018547" target="_blank">link</a> |
+|                                | Workshop Biomaterials                            | Lorena Trebbi                   | <a href="https://vimeo.com/691018790" target="_blank">link</a> |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
-| **Week 5: Growing more (HLN)** | Lecture: Creative GMOs                           | Lucas Evers                     | link      |
-|                                | Lecture: Genetic Modification Basics             | Kas Houthuijs                   | link      |
-|                                | Workshop: growing GMO's Pt1                      | Kas Houthuijs                   | link      |
-|                                | Design Fiction assignment                        | Frank Vloet                     | link      |
-|                                | Design Fiction assignment                        | Frank Vloet                     | link      |
-|                                | Workshop: growing GMO's Pt2                      | Kas Houthuijs                   | link      |
-|                                | Prototype Presentations                          | Participant groups              | link      |
-|                                | Guest Lecture                                    |                                 | link      |
-|                                | Workshop: Protein Isolation Pt 1                 | Kas Houthuijs                   | link      |
-|                                | Workshop: Protein Isolation Pt 2                 | Kas Houthuijs                   | link      |
-|                                | Workshop: Protein Isolation Pt 3                 | Kas Houthuijs                   | link      |
+| **Week 5: Growing more (HLN)** | Lecture: Creative GMOs                           | Lucas Evers                     | <a href="https://vimeo.com/693189278" target="_blank">link</a> |
+|                                | Lecture: Genetic Modification Basics             | Kas Houthuijs                   | <a href="https://vimeo.com/693189209" target="_blank">link</a> |
+|                                | Workshop: growing GMO's Pt1                      | Kas Houthuijs                   |           |
+|                                | Design Fiction assignment                        | Frank Vloet                     |           |
+|                                | Design Fiction assignment                        | Frank Vloet                     |           |
+|                                | Workshop: growing GMO's Pt2                      | Kas Houthuijs                   |           |
+|                                | Prototype Presentations                          | Participant groups              |           |
+|                                | Lecture: Synthetic Biology as an Artistic Practice | Howard Boland                 | <a href="https://vimeo.com/694000631" target="_blank">link</a> |
+|                                | Workshop: Protein Isolation Pt 1                 | Kas Houthuijs                   |           |
+|                                | Workshop: Protein Isolation Pt 2                 | Kas Houthuijs                   |           |
+|                                | Workshop: Protein Isolation Pt 3                 | Kas Houthuijs                   |           |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
 | **Week 6: Life in Silico**     | Guest Lecture: CRISPR research in artistic context | John La Cava                  | link      |
