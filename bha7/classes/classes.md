@@ -48,18 +48,18 @@ permalink: /bha7/classes/
 |                                | Workshop: Protein Isolation Pt 3                 | Kas Houthuijs                   |           |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
-| **Week 6: Life in Silico**     | Guest Lecture: CRISPR research in artistic context | John La Cava                  | link      |
-|                                | Workshop Digital DNA Design                      | Fábio Júnio Ferreira            | link      |
-|                                | Workshop Digital DNA Databases                   |                                 | link      |
-|                                | Workshop DNA Design                              |                                 | link      |
+| **Week 6: Life in Silico**     | Guest Lecture: CRISPR research in artistic context | John La Cava                  | <a href="https://vimeo.com/695730894" target="_blank">link</a> |
+|                                | Workshop Digital DNA Design                      | Fábio Júnio Ferreira            | <a href="https://vimeo.com/696442612" target="_blank">link</a> |
+|                                | Workshop Digital DNA Databases                   |                                 |           |
+|                                | Workshop DNA Design                              |                                 |           |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
-| **Week 7: CRISPR week**        | Guest Lecture: CRISPR Art                        | Marta de Menezes                | link      |
-|                                | Lecture: CRISPR Basics                           | Kas Houthuijs                   | link      |
-|                                | Workshop: sgRNA synthesis                        | Kas Houthuijs                   | link      |
-|                                | Workshop: sgRNA purification                     | Kas Houthuijs                   | link      |
-|                                | Workshop: CRISPR in vitro Cutting                | Kas Houthuijs                   | link      |
-|                                | Workshop: Gelelectrophoresis                     | Kas Houthuijs                   | link      |
+| **Week 7: CRISPR week**        | Guest Lecture: CRISPR Art                        | Marta de Menezes                | <a href="https://vimeo.com/698490941" target="_blank">link</a> |
+|                                | Lecture: CRISPR Basics                           | Kas Houthuijs                   | <a href="https://vimeo.com/698249342" target="_blank">link</a> |
+|                                | Workshop: sgRNA synthesis                        | Kas Houthuijs                   |           |
+|                                | Workshop: sgRNA purification                     | Kas Houthuijs                   |           |
+|                                | Workshop: CRISPR in vitro Cutting                | Kas Houthuijs                   |           |
+|                                | Workshop: Gelelectrophoresis                     | Kas Houthuijs                   |           |
 |                                |                                                  |                                 |           |
 |--------------------------------|--------------------------------------------------|---------------------------------|-----------|
 | **Week 8: Personal Project**   | No lectures                                      |                                 |           |
